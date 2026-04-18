@@ -2752,5 +2752,590 @@
     "english": "to hail → it hails / it is hailing",
     "context": "Impersonal verb. Il grêle au printemps parfois.",
     "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_01",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "le nord",
+    "english": "the north",
+    "context": "dans le nord / au nord de la France",
+    "difficulty": 1
+  },
+  {
+    "id": "class13_vocab_02",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "le sud",
+    "english": "the south",
+    "context": "dans le sud / au sud de la France",
+    "difficulty": 1
+  },
+  {
+    "id": "class13_vocab_03",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "l'est (m)",
+    "english": "the east",
+    "context": "dans l'est / à l'est",
+    "difficulty": 1
+  },
+  {
+    "id": "class13_vocab_04",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "l'ouest (m)",
+    "english": "the west",
+    "context": "dans l'ouest / à l'ouest",
+    "difficulty": 1
+  },
+  {
+    "id": "class13_vocab_05",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "la bise",
+    "english": "cold autumn wind",
+    "context": "L'automne est triste avec sa bise et son brouillard.",
+    "difficulty": 3
+  },
+  {
+    "id": "class13_vocab_06",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "couvert(e)",
+    "english": "overcast, covered",
+    "context": "Le ciel est couvert. ≈ Il fait gris. / Le ciel nuageux et couvert.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_07",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "ensoleillé(e)",
+    "english": "sunny",
+    "context": "Dans le sud, le ciel est ensoleillé toute la journée.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_08",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "nuageux / nuageuse",
+    "english": "cloudy",
+    "context": "Le ciel est nuageux et gris aujourd'hui.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_09",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "la chaleur",
+    "english": "the heat",
+    "context": "Je n'aime pas la chaleur de l'été.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_10",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "le tonnerre",
+    "english": "the thunder",
+    "context": "Je n'aime pas les orages, le vent et le tonnerre.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_11",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "jaunir",
+    "english": "to turn yellow",
+    "context": "Les feuilles jaunissent en automne. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_12",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "verdir",
+    "english": "to turn green",
+    "context": "Les arbres verdissent au printemps. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_13",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "fleurir",
+    "english": "to bloom, to flower",
+    "context": "Les fleurs fleurissent au printemps et en été. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_14",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "rougir",
+    "english": "to turn red / to blush",
+    "context": "Les feuilles rougissent en automne. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_vocab_15",
+    "source": "class 13.pdf",
+    "type": "vocabulary",
+    "french": "brunir",
+    "english": "to turn brown",
+    "context": "Les feuilles brunissent en automne. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_grammar_01",
+    "source": "class 13.pdf",
+    "type": "grammar",
+    "french": "Les adjectifs démonstratifs: ce, cet, cette, ces",
+    "english": "Demonstrative adjectives: this/that (m.s.), this/that (m.s. before vowel/h), this/that (f.s.), these/those (pl.)",
+    "context": "ce matin, cet après-midi, cette nuit, ces montagnes. Cet before masculine nouns starting with a vowel or silent h: cet arbre, cet homme.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_conjugation_01",
+    "source": "class 13.pdf",
+    "type": "conjugation",
+    "french": "couvrir (présent)",
+    "english": "to cover (present tense)",
+    "context": "je couvre, tu couvres, il/elle couvre, nous couvrons, vous couvrez, ils/elles couvrent. Les nuages couvrent le ciel.",
+    "difficulty": 2
+  },
+  {
+    "id": "class13_culture_01",
+    "source": "class 13.pdf",
+    "type": "culture",
+    "french": "Victor Hugo – L'automne (poème)",
+    "english": "Victor Hugo – Autumn (poem)",
+    "context": "L'aube est moins claire, l'air moins chaud, le ciel moins pur. / Les longs jours sont passés, les mois charmants finissent. / L'automne est triste avec sa bise et son brouillard. / Et l'été qui s'enfuit est un ami qui part.",
+    "difficulty": 3
+  },
+  {
+    "id": "class14_vocab_01",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "fleuriste",
+    "english": "florist",
+    "context": "Elle est fleuriste. (no article with professions after être)",
+    "difficulty": 1
+  },
+  {
+    "id": "class14_vocab_02",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "la préfecture",
+    "english": "the prefecture, government office",
+    "context": "Elle est à la préfecture pour son passeport.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_vocab_03",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "le passeport",
+    "english": "the passport",
+    "context": "Je suis là pour le passeport. Est-ce que vous avez votre passeport ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class14_vocab_04",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "le nom de jeune fille",
+    "english": "maiden name",
+    "context": "Quel est votre nom de jeune fille ? — Pairon.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_vocab_05",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "la situation de famille",
+    "english": "marital status",
+    "context": "Quelle est votre situation de famille ? — Je suis marié(e).",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_vocab_06",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "vieillir",
+    "english": "to grow old, to age",
+    "context": "Je vieillis. Il vieillit. Nous vieillissons. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_vocab_07",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "une averse",
+    "english": "a shower, downpour",
+    "context": "Il y a des averses en automne.",
+    "difficulty": 3
+  },
+  {
+    "id": "class14_vocab_08",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "le cadeau",
+    "english": "the gift, the present",
+    "context": "Les enfants attendent des cadeaux pour Noël.",
+    "difficulty": 1
+  },
+  {
+    "id": "class14_vocab_09",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "nu(e)",
+    "english": "bare, naked",
+    "context": "Les arbres sont nus en hiver, ils n'ont pas de feuilles.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_vocab_10",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "tomber",
+    "english": "to fall",
+    "context": "Les feuilles tombent par terre en automne. (1st group -er verb)",
+    "difficulty": 1
+  },
+  {
+    "id": "class14_vocab_11",
+    "source": "class 14.pdf",
+    "type": "vocabulary",
+    "french": "attendre",
+    "english": "to wait (for)",
+    "context": "j'attends, tu attends, il attend, nous attendons, vous attendez, ils attendent. J'attends le bus.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_grammar_01",
+    "source": "class 14.pdf",
+    "type": "grammar",
+    "french": "Les adjectifs possessifs: notre/nos, votre/vos, leur/leurs",
+    "english": "Possessive adjectives: our, your (formal/pl.), their",
+    "context": "notre maison, nos enfants, votre chien, vos livres, leur ami, leurs amis. These don't change for gender — only for number.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_conjugation_01",
+    "source": "class 14.pdf",
+    "type": "conjugation",
+    "french": "vouloir (présent)",
+    "english": "to want (present tense)",
+    "context": "je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Je veux partir en vacances.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_conjugation_02",
+    "source": "class 14.pdf",
+    "type": "conjugation",
+    "french": "pouvoir (présent)",
+    "english": "to be able to, can (present tense)",
+    "context": "je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Tu peux venir chez moi ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_conjugation_03",
+    "source": "class 14.pdf",
+    "type": "conjugation",
+    "french": "devoir (présent)",
+    "english": "to have to, must (present tense)",
+    "context": "je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Je dois faire mes devoirs.",
+    "difficulty": 2
+  },
+  {
+    "id": "class14_conjugation_04",
+    "source": "class 14.pdf",
+    "type": "conjugation",
+    "french": "faire (présent)",
+    "english": "to do, to make (present tense)",
+    "context": "je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Qu'est-ce que tu fais ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_01",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "se réveiller",
+    "english": "to wake up",
+    "context": "Je me réveille à 7 heures. (reflexive verb)",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_02",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "se lever",
+    "english": "to get up",
+    "context": "Je me lève à 7h30. (reflexive, spelling change: je me lève, nous nous levons)",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_03",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "se coiffer",
+    "english": "to do one's hair",
+    "context": "Je me coiffe avant de sortir. (reflexive verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_04",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "prendre la douche / se doucher",
+    "english": "to take a shower",
+    "context": "Je prends la douche. / Je me douche le matin.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_05",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "se brosser les dents",
+    "english": "to brush one's teeth",
+    "context": "Je me brosse les dents deux fois par jour.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_06",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "prendre le petit déjeuner",
+    "english": "to have breakfast",
+    "context": "Je prends le petit déjeuner à 8 heures.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_07",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "déjeuner",
+    "english": "to have lunch",
+    "context": "Je déjeune au café à midi. Le déjeuner = lunch.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_08",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "dîner",
+    "english": "to have dinner",
+    "context": "Je dîne à 20 heures. Le dîner = dinner.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_09",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "se promener",
+    "english": "to go for a walk",
+    "context": "Je me promène dans le parc. Nous nous promenons. (reflexive, spelling change)",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_10",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "se coucher",
+    "english": "to go to bed",
+    "context": "Je me couche à 23 heures. (reflexive verb)",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_11",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "s'endormir",
+    "english": "to fall asleep",
+    "context": "Je m'endors vite parce que je suis fatigué(e). (reflexive verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_12",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "faire le ménage",
+    "english": "to do housework",
+    "context": "Le week-end, je fais le ménage.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_13",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "faire le repassage",
+    "english": "to do the ironing",
+    "context": "Je fais le repassage le dimanche.",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_14",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "faire la vaisselle",
+    "english": "to do the dishes",
+    "context": "Je fais la vaisselle après le dîner.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_15",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "faire la cuisine",
+    "english": "to cook",
+    "context": "J'aime faire la cuisine le week-end.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_16",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "faire les courses",
+    "english": "to go shopping (groceries)",
+    "context": "Je fais les courses au supermarché.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_17",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "sortir",
+    "english": "to go out, to leave",
+    "context": "Je sors de chez moi à 8h. (3rd group irregular verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_18",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "bavarder",
+    "english": "to chat, to chatter",
+    "context": "Les collègues bavardent avant de commencer le travail. (= parler)",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_19",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "fatigué(e)",
+    "english": "tired",
+    "context": "Je suis très fatigué(e) après le travail.",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_20",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "agréable",
+    "english": "pleasant, nice",
+    "context": "La température est agréable : il fait 18 degrés.",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_21",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "pousser",
+    "english": "to grow (plants) / to push",
+    "context": "Les fleurs poussent dans le jardin au printemps.",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_22",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "grandir",
+    "english": "to grow up (people, animals)",
+    "context": "Les enfants grandissent vite. (2nd group -ir verb)",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_23",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "rentrer",
+    "english": "to return home, to go back",
+    "context": "Je rentre à la maison à 19h. Elle rentre au travail à 13h.",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_vocab_24",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "tôt",
+    "english": "early",
+    "context": "Je me lève tôt le matin. ≠ tard (late)",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_vocab_25",
+    "source": "class 15.pdf",
+    "type": "vocabulary",
+    "french": "prendre le bus",
+    "english": "to take the bus",
+    "context": "Quand il pleut, elle prend le bus. ≠ aller à pied (to walk)",
+    "difficulty": 1
+  },
+  {
+    "id": "class15_grammar_01",
+    "source": "class 15.pdf",
+    "type": "grammar",
+    "french": "Pronoms toniques: moi, toi, lui, elle, nous, vous, eux, elles",
+    "english": "Stressed/tonic pronouns",
+    "context": "Je sors de chez moi. Tu sors de chez toi. Il sort de chez lui. Used after prepositions (chez, avec, pour, sans) and for emphasis. Et toi ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_conjugation_01",
+    "source": "class 15.pdf",
+    "type": "conjugation",
+    "french": "se réveiller (présent)",
+    "english": "to wake up (present tense – reflexive)",
+    "context": "je me réveille, tu te réveilles, il/elle se réveille, nous nous réveillons, vous vous réveillez, ils/elles se réveillent",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_conjugation_02",
+    "source": "class 15.pdf",
+    "type": "conjugation",
+    "french": "se lever (présent)",
+    "english": "to get up (present tense – reflexive, spelling change)",
+    "context": "je me lève, tu te lèves, il/elle se lève, nous nous levons, vous vous levez, ils/elles se lèvent (è before silent ending)",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_conjugation_03",
+    "source": "class 15.pdf",
+    "type": "conjugation",
+    "french": "s'habiller (présent)",
+    "english": "to get dressed (present tense – reflexive)",
+    "context": "je m'habille, tu t'habilles, il/elle s'habille, nous nous habillons, vous vous habillez, ils/elles s'habillent",
+    "difficulty": 2
+  },
+  {
+    "id": "class15_conjugation_04",
+    "source": "class 15.pdf",
+    "type": "conjugation",
+    "french": "sortir / partir / dormir (présent)",
+    "english": "to go out / to leave / to sleep (present tense – 3rd group irregular)",
+    "context": "sortir: je sors, tu sors, il sort, nous sortons, vous sortez, ils sortent. partir: je pars, tu pars, il part, nous partons... dormir: je dors, tu dors, il dort, nous dormons...",
+    "difficulty": 3
+  },
+  {
+    "id": "class15_conjugation_05",
+    "source": "class 15.pdf",
+    "type": "conjugation",
+    "french": "s'endormir (présent)",
+    "english": "to fall asleep (present tense – reflexive)",
+    "context": "je m'endors, tu t'endors, il/elle s'endort, nous nous endormons, vous vous endormez, ils/elles s'endorment",
+    "difficulty": 3
   }
 ]
