@@ -436,11 +436,16 @@ function submitAnswer() {
   // show feedback
   const fb = document.getElementById('quiz-feedback');
   const fbResult = document.getElementById('quiz-feedback-result');
+  const fbUserAnswer = document.getElementById('quiz-feedback-user-answer');
   const fbAnswer = document.getElementById('quiz-feedback-answer');
   const fbContext = document.getElementById('quiz-feedback-context');
 
   fbResult.textContent = correct ? '✓ Correct!' : '✗ Incorrect';
   fbResult.className = 'feedback-result ' + (correct ? 'correct' : 'wrong');
+
+  // Always show what the user typed
+  fbUserAnswer.innerHTML = `Your answer: <strong>${escHtml(userInput)}</strong>`;
+  fbUserAnswer.className = 'feedback-user-answer ' + (correct ? 'correct' : 'wrong');
 
   if (feedbackHtml) {
     fbAnswer.innerHTML = feedbackHtml;
@@ -450,7 +455,8 @@ function submitAnswer() {
   }
 
   if (!correct && concept.context) {
-    fbContext.textContent = concept.context;
+    const label = (concept.type === 'grammar' || concept.type === 'conjugation') ? 'Rule' : 'Example';
+    fbContext.innerHTML = `💡 <strong>${label}:</strong> ${escHtml(concept.context)}`;
     fbContext.classList.remove('hidden');
   } else {
     fbContext.classList.add('hidden');

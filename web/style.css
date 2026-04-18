@@ -260,6 +260,24 @@ main {
 .feedback-result.correct { color: var(--green); }
 .feedback-result.wrong   { color: var(--red); }
 
+.feedback-user-answer {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+}
+
+.feedback-user-answer.correct {
+  background: #eafaf1;
+  color: #1a6b3a;
+}
+
+.feedback-user-answer.wrong {
+  background: #fdecea;
+  color: #a00;
+  text-decoration: line-through;
+}
+
 .feedback-answer {
   font-size: 0.95rem;
   color: #444;
