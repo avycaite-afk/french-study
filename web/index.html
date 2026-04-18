@@ -12,9 +12,9 @@
   <div class="header-inner">
     <div class="logo">🇫🇷 <span>French Study</span></div>
     <nav>
-      <button class="nav-btn" data-view="dashboard">Accueil</button>
-      <button class="nav-btn" data-view="status">Statut</button>
-      <button class="nav-btn" data-view="mistakes">Erreurs</button>
+      <button class="nav-btn" data-view="dashboard">Home</button>
+      <button class="nav-btn" data-view="status">Progress</button>
+      <button class="nav-btn" data-view="mistakes">Mistakes</button>
     </nav>
   </div>
 </header>
@@ -24,7 +24,7 @@
   <!-- DASHBOARD -->
   <div id="view-dashboard" class="view">
     <section class="progress-section">
-      <h2 class="section-title">Progression</h2>
+      <h2 class="section-title">My Progress</h2>
       <div class="progress-bar-wrap">
         <div class="progress-bar-fill" id="db-bar"></div>
       </div>
@@ -37,7 +37,7 @@
     </section>
 
     <section class="actions-section">
-      <button class="action-btn primary" id="btn-study">📚 Étudier (15–20 questions)</button>
+      <button class="action-btn primary" id="btn-study">📚 Study (15–20 questions)</button>
       <button class="action-btn secondary" id="btn-flashcards">⚡ Flashcards</button>
     </section>
   </div>
@@ -56,15 +56,15 @@
       <p class="question-prompt" id="quiz-prompt"></p>
 
       <div class="answer-area" id="quiz-answer-area">
-        <input type="text" id="quiz-input" placeholder="Votre réponse…" autocomplete="off" autocorrect="off" spellcheck="false">
-        <button class="submit-btn" id="quiz-submit">Vérifier →</button>
+        <input type="text" id="quiz-input" placeholder="Your answer…" autocomplete="off" autocorrect="off" spellcheck="false">
+        <button class="submit-btn" id="quiz-submit">Check →</button>
       </div>
 
       <div class="feedback hidden" id="quiz-feedback">
         <div class="feedback-result" id="quiz-feedback-result"></div>
         <div class="feedback-answer" id="quiz-feedback-answer"></div>
         <div class="feedback-context" id="quiz-feedback-context"></div>
-        <button class="next-btn" id="quiz-next">Suivant →</button>
+        <button class="next-btn" id="quiz-next">Next →</button>
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@
         <div class="flashcard-face flashcard-front">
           <div class="fc-type-badge" id="fc-type-badge"></div>
           <p class="fc-text" id="fc-front-text"></p>
-          <p class="fc-hint">Appuyez sur Espace pour retourner</p>
+          <p class="fc-hint">Tap or press Space to flip</p>
         </div>
         <div class="flashcard-face flashcard-back">
           <p class="fc-text" id="fc-back-text"></p>
@@ -93,15 +93,15 @@
     </div>
 
     <div class="fc-buttons">
-      <button class="fc-btn fc-btn-wrong" id="fc-wrong">✗ À revoir</button>
-      <button class="fc-btn fc-btn-flip" id="fc-flip">↻ Retourner</button>
-      <button class="fc-btn fc-btn-correct" id="fc-correct">✓ Je sais</button>
+      <button class="fc-btn fc-btn-wrong" id="fc-wrong">✗ Still learning</button>
+      <button class="fc-btn fc-btn-flip" id="fc-flip">↻ Flip</button>
+      <button class="fc-btn fc-btn-correct" id="fc-correct">✓ Got it!</button>
     </div>
   </div>
 
   <!-- STATUS -->
   <div id="view-status" class="view hidden">
-    <h2 class="section-title">Statut détaillé</h2>
+    <h2 class="section-title">Detailed Progress</h2>
 
     <div class="status-overall">
       <div class="progress-bar-wrap">
@@ -115,28 +115,28 @@
       </div>
     </div>
 
-    <h3 class="subsection-title">Par classe</h3>
+    <h3 class="subsection-title">By class</h3>
     <table class="status-table" id="st-class-table">
       <thead>
         <tr>
-          <th>Classe</th>
+          <th>Class</th>
           <th>Total</th>
-          <th>Maîtrisés</th>
-          <th>Apprentissage</th>
-          <th>Nouveau</th>
+          <th>Mastered</th>
+          <th>Learning</th>
+          <th>New</th>
           <th>%</th>
         </tr>
       </thead>
       <tbody id="st-class-tbody"></tbody>
     </table>
 
-    <h3 class="subsection-title">Par type</h3>
+    <h3 class="subsection-title">By type</h3>
     <table class="status-table" id="st-type-table">
       <thead>
         <tr>
           <th>Type</th>
           <th>Total</th>
-          <th>Maîtrisés</th>
+          <th>Mastered</th>
           <th>%</th>
         </tr>
       </thead>
@@ -146,7 +146,7 @@
 
   <!-- MISTAKES -->
   <div id="view-mistakes" class="view hidden">
-    <h2 class="section-title">Concepts difficiles</h2>
+    <h2 class="section-title">Difficult concepts</h2>
     <p class="mistakes-subtitle" id="mistakes-subtitle"></p>
     <div class="mistakes-list" id="mistakes-list"></div>
   </div>
@@ -154,15 +154,15 @@
   <!-- SUMMARY -->
   <div id="view-summary" class="view hidden">
     <div class="summary-card">
-      <h2 class="summary-title">Session terminée !</h2>
+      <h2 class="summary-title">Session complete! 🎉</h2>
       <div class="summary-scores">
         <div class="score-item score-correct">
           <span class="score-num" id="sum-correct"></span>
-          <span class="score-label">Corrects</span>
+          <span class="score-label">Correct</span>
         </div>
         <div class="score-item score-wrong">
           <span class="score-num" id="sum-wrong"></span>
-          <span class="score-label">Erreurs</span>
+          <span class="score-label">Wrong</span>
         </div>
         <div class="score-item score-pct">
           <span class="score-num" id="sum-pct"></span>
@@ -172,16 +172,16 @@
 
       <div class="summary-lists">
         <div id="sum-wrong-list-wrap" class="hidden">
-          <h3 class="summary-list-title">À retravailler</h3>
+          <h3 class="summary-list-title">To review</h3>
           <div class="summary-list" id="sum-wrong-list"></div>
         </div>
         <div id="sum-correct-list-wrap" class="hidden">
-          <h3 class="summary-list-title">Bien répondu</h3>
+          <h3 class="summary-list-title">Got right</h3>
           <div class="summary-list" id="sum-correct-list"></div>
         </div>
       </div>
 
-      <button class="action-btn primary" id="sum-home">← Retour à l'accueil</button>
+      <button class="action-btn primary" id="sum-home">← Back to home</button>
     </div>
   </div>
 
@@ -194,6 +194,6 @@
 
 </main>
 
-<script src="app.js"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>

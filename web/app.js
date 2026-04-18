@@ -27,14 +27,14 @@ document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
   showView('loading');
-  setLoadingText('Chargement des concepts…');
+  setLoadingText('Loading concepts…');
 
   try {
     const res = await fetch('/data/knowledge.json');
     if (!res.ok) throw new Error('Cannot load knowledge.json');
     concepts = await res.json();
   } catch (e) {
-    setLoadingText('❌ Impossible de charger /data/knowledge.json.\nLancez: python3 -m http.server 8080 depuis la racine du projet.');
+    setLoadingText('❌ Could not load /data/knowledge.json.\nMake sure you ran: python3 -m http.server 8080 from the project folder.');
     return;
   }
 
@@ -153,22 +153,22 @@ function generateQuestion(concept) {
   let prompt, answer, direction = null;
 
   if (type === 'conjugation') {
-    prompt = `Conjuguez le verbe:\n${concept.french}`;
+    prompt = `Conjugate this verb — type all 6 forms separated by commas\n(je…, tu…, il/elle…, nous…, vous…, ils/elles…):\n\n${concept.french}`;
     answer = concept.context;
     direction = 'conjugation';
   } else if (type === 'grammar') {
-    // Show English rule, ask for French term
-    prompt = `Règle de grammaire – Comment dit-on en français ?\n\n"${concept.english}"`;
-    answer = concept.french;
-    direction = 'en→fr';
+    // Always FR → EN for grammar (show the rule, ask what it means)
+    prompt = `Grammar — what does this mean in English?\n\n${concept.french}`;
+    answer = concept.english;
+    direction = 'fr→en';
   } else {
     // vocabulary or expression: random direction
     if (Math.random() < 0.5) {
-      prompt = concept.french;
+      prompt = `Translate to English:\n\n${concept.french}`;
       answer = concept.english;
       direction = 'fr→en';
     } else {
-      prompt = concept.english;
+      prompt = `Translate to French:\n\n${concept.english}`;
       answer = concept.french;
       direction = 'en→fr';
     }
@@ -268,10 +268,10 @@ function renderDashboard() {
 
   document.getElementById('db-bar').style.width = pct + '%';
   document.getElementById('db-label').textContent =
-    `Session #${progress.session_count} | ${pct}% maîtrisés (${stats.mastered}/${stats.total} concepts)`;
-  document.getElementById('db-mastered').textContent = `🟢 Maîtrisés: ${stats.mastered}`;
-  document.getElementById('db-learning').textContent = `🟡 Apprentissage: ${stats.learning}`;
-  document.getElementById('db-new').textContent = `🔴 Nouveau: ${stats.new}`;
+    `Session #${progress.session_count} | ${pct}% mastered (${stats.mastered}/${stats.total} concepts)`;
+  document.getElementById('db-mastered').textContent = `🟢 Mastered: ${stats.mastered}`;
+  document.getElementById('db-learning').textContent = `🟡 Learning: ${stats.learning}`;
+  document.getElementById('db-new').textContent = `🔴 New: ${stats.new}`;
 }
 
 // ===== Quiz =====
@@ -301,7 +301,7 @@ function startQuiz() {
   waitingForNext  = false;
 
   if (sessionConcepts.length === 0) {
-    alert('Tous les concepts sont maîtrisés ! Bravo !');
+    alert('All concepts mastered! Well done! 🎉');
     return;
   }
 
@@ -321,9 +321,9 @@ function renderQuizQuestion() {
 
   // badge
   const badgeLabels = {
-    'fr→en': 'FR → EN',
-    'en→fr': 'EN → FR',
-    'conjugation': 'Conjugaison',
+    'fr→en': 'French → English',
+    'en→fr': 'English → French',
+    'conjugation': 'Conjugation',
   };
   document.getElementById('quiz-type-badge').textContent =
     badgeLabels[currentQuestion.direction] || concept.type;
@@ -365,10 +365,10 @@ function submitAnswer() {
     ).join(' | ');
     feedbackHtml = result.correct
       ? null
-      : `Formes correctes: <strong>${currentQuestion.answer}</strong><br><small>${detailLines}</small>`;
+      : `Correct forms: <strong>${currentQuestion.answer}</strong><br><small>${detailLines}</small>`;
   } else {
     correct = checkAnswer(userInput, currentQuestion.answer);
-    feedbackHtml = correct ? null : `Réponse correcte: <strong>${currentQuestion.answer}</strong>`;
+    feedbackHtml = correct ? null : `Correct answer: <strong>${currentQuestion.answer}</strong>`;
   }
 
   // update progress
@@ -382,7 +382,7 @@ function submitAnswer() {
   const fbAnswer = document.getElementById('quiz-feedback-answer');
   const fbContext = document.getElementById('quiz-feedback-context');
 
-  fbResult.textContent = correct ? '✓ Correct !' : '✗ Incorrect';
+  fbResult.textContent = correct ? '✓ Correct!' : '✗ Incorrect';
   fbResult.className = 'feedback-result ' + (correct ? 'correct' : 'wrong');
 
   if (feedbackHtml) {
@@ -443,7 +443,7 @@ function startFlashcards() {
   fcFlipped  = false;
 
   if (fcConcepts.length === 0) {
-    alert('Tous les concepts sont maîtrisés ! Bravo !');
+    alert('All concepts mastered! Well done! 🎉');
     return;
   }
 
@@ -498,10 +498,10 @@ function renderStatus() {
 
   document.getElementById('st-bar').style.width = pct + '%';
   document.getElementById('st-label').textContent =
-    `Session #${progress.session_count} | ${pct}% maîtrisés (${stats.mastered}/${stats.total} concepts)`;
-  document.getElementById('st-mastered').textContent = `🟢 Maîtrisés: ${stats.mastered}`;
-  document.getElementById('st-learning').textContent = `🟡 Apprentissage: ${stats.learning}`;
-  document.getElementById('st-new').textContent = `🔴 Nouveau: ${stats.new}`;
+    `Session #${progress.session_count} | ${pct}% mastered (${stats.mastered}/${stats.total} concepts)`;
+  document.getElementById('st-mastered').textContent = `🟢 Mastered: ${stats.mastered}`;
+  document.getElementById('st-learning').textContent = `🟡 Learning: ${stats.learning}`;
+  document.getElementById('st-new').textContent = `🔴 New: ${stats.new}`;
 
   // Class breakdown
   const classMap = {};
@@ -577,11 +577,11 @@ function renderMistakes() {
   const subtitle = document.getElementById('mistakes-subtitle');
   const list = document.getElementById('mistakes-list');
 
-  subtitle.textContent = `${struggling.length} concept${struggling.length !== 1 ? 's' : ''} avec 2+ erreurs`;
+  subtitle.textContent = `${struggling.length} concept${struggling.length !== 1 ? 's' : ''} with 2+ mistakes`;
   list.innerHTML = '';
 
   if (struggling.length === 0) {
-    list.innerHTML = '<p class="mistakes-empty">Aucune erreur répétée — continuez comme ça ! 🎉</p>';
+    list.innerHTML = '<p class="mistakes-empty">No repeated mistakes — keep it up! 🎉</p>';
     return;
   }
 
@@ -592,7 +592,7 @@ function renderMistakes() {
     card.innerHTML = `
       <div class="mistake-card-header">
         <span class="mistake-french">${escHtml(c.french)}</span>
-        <span class="mistake-score">✗ ${p.wrong} erreur${p.wrong > 1 ? 's' : ''}</span>
+        <span class="mistake-score">✗ ${p.wrong} mistake${p.wrong > 1 ? 's' : ''}</span>
       </div>
       <div class="mistake-english">${escHtml(c.english)}</div>
       ${c.context ? `<div class="mistake-context">${escHtml(c.context)}</div>` : ''}
