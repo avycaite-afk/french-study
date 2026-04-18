@@ -99,6 +99,7 @@ function selectConcepts(cnpts, prog, n = SESSION_SIZE) {
   const pools = { p1: [], p2: [], p3: [], p4: [] };
 
   for (const c of cnpts) {
+    if (c.type === 'culture') continue; // culture entries are reference notes, not quiz questions
     const p = prog.concepts[c.id];
     if (!p) {
       pools.p1.push(c);  // never tested
@@ -157,10 +158,11 @@ function generateQuestion(concept) {
     answer = concept.context;
     direction = 'conjugation';
   } else if (type === 'grammar') {
-    // Always FR → EN for grammar (show the rule, ask what it means)
-    prompt = `Grammar — what does this mean in English?\n\n${concept.french}`;
-    answer = concept.english;
-    direction = 'fr→en';
+    // Show English rule + real examples from context, ask for the French key terms
+    const contextHint = concept.context ? `\n\nExamples: ${concept.context}` : '';
+    prompt = `Grammar — give the French form(s):\n\n${concept.english}${contextHint}`;
+    answer = concept.french;
+    direction = 'grammar';
   } else {
     // vocabulary or expression: random direction
     if (Math.random() < 0.5) {
@@ -220,6 +222,14 @@ function checkAnswer(userInput, expected) {
   }
   candidates.add(normalize(expected));
   candidates.add(normalize(stripParens(expected)));
+
+  // For grammar answers like "Label: key, terms" also accept just "key, terms"
+  const colonIdx = expected.indexOf(':');
+  if (colonIdx !== -1) {
+    const afterColon = expected.slice(colonIdx + 1).trim();
+    candidates.add(normalize(afterColon));
+    candidates.add(normalize(stripParens(afterColon)));
+  }
 
   // 1. Exact or cleaned match against any candidate
   for (const c of candidates) {
@@ -370,6 +380,7 @@ function renderQuizQuestion() {
     'fr→en': 'French → English',
     'en→fr': 'English → French',
     'conjugation': 'Conjugation',
+    'grammar': 'Grammar',
   };
   document.getElementById('quiz-type-badge').textContent =
     badgeLabels[currentQuestion.direction] || concept.type;
