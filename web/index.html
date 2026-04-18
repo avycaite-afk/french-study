@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>French Study</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">🇫🇷 <span>French Study</span></div>
+    <nav>
+      <button class="nav-btn" data-view="dashboard">Accueil</button>
+      <button class="nav-btn" data-view="status">Statut</button>
+      <button class="nav-btn" data-view="mistakes">Erreurs</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- DASHBOARD -->
+  <div id="view-dashboard" class="view">
+    <section class="progress-section">
+      <h2 class="section-title">Progression</h2>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar-fill" id="db-bar"></div>
+      </div>
+      <p class="progress-label" id="db-label"></p>
+      <div class="stat-chips">
+        <span class="chip chip-green" id="db-mastered"></span>
+        <span class="chip chip-yellow" id="db-learning"></span>
+        <span class="chip chip-red" id="db-new"></span>
+      </div>
+    </section>
+
+    <section class="actions-section">
+      <button class="action-btn primary" id="btn-study">📚 Étudier (15–20 questions)</button>
+      <button class="action-btn secondary" id="btn-flashcards">⚡ Flashcards</button>
+    </section>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="view-quiz" class="view hidden">
+    <div class="session-header">
+      <div class="session-progress-wrap">
+        <div class="session-progress-fill" id="quiz-progress-fill"></div>
+      </div>
+      <p class="session-label" id="quiz-progress-label"></p>
+    </div>
+
+    <div class="question-card" id="quiz-card">
+      <div class="question-type-badge" id="quiz-type-badge"></div>
+      <p class="question-prompt" id="quiz-prompt"></p>
+
+      <div class="answer-area" id="quiz-answer-area">
+        <input type="text" id="quiz-input" placeholder="Votre réponse…" autocomplete="off" autocorrect="off" spellcheck="false">
+        <button class="submit-btn" id="quiz-submit">Vérifier →</button>
+      </div>
+
+      <div class="feedback hidden" id="quiz-feedback">
+        <div class="feedback-result" id="quiz-feedback-result"></div>
+        <div class="feedback-answer" id="quiz-feedback-answer"></div>
+        <div class="feedback-context" id="quiz-feedback-context"></div>
+        <button class="next-btn" id="quiz-next">Suivant →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FLASHCARDS -->
+  <div id="view-flashcards" class="view hidden">
+    <div class="session-header">
+      <div class="session-progress-wrap">
+        <div class="session-progress-fill" id="fc-progress-fill"></div>
+      </div>
+      <p class="session-label" id="fc-progress-label"></p>
+    </div>
+
+    <div class="flashcard-scene" id="fc-scene">
+      <div class="flashcard" id="fc-card">
+        <div class="flashcard-face flashcard-front">
+          <div class="fc-type-badge" id="fc-type-badge"></div>
+          <p class="fc-text" id="fc-front-text"></p>
+          <p class="fc-hint">Appuyez sur Espace pour retourner</p>
+        </div>
+        <div class="flashcard-face flashcard-back">
+          <p class="fc-text" id="fc-back-text"></p>
+          <p class="fc-context" id="fc-back-context"></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="fc-buttons">
+      <button class="fc-btn fc-btn-wrong" id="fc-wrong">✗ À revoir</button>
+      <button class="fc-btn fc-btn-flip" id="fc-flip">↻ Retourner</button>
+      <button class="fc-btn fc-btn-correct" id="fc-correct">✓ Je sais</button>
+    </div>
+  </div>
+
+  <!-- STATUS -->
+  <div id="view-status" class="view hidden">
+    <h2 class="section-title">Statut détaillé</h2>
+
+    <div class="status-overall">
+      <div class="progress-bar-wrap">
+        <div class="progress-bar-fill" id="st-bar"></div>
+      </div>
+      <p class="progress-label" id="st-label"></p>
+      <div class="stat-chips">
+        <span class="chip chip-green" id="st-mastered"></span>
+        <span class="chip chip-yellow" id="st-learning"></span>
+        <span class="chip chip-red" id="st-new"></span>
+      </div>
+    </div>
+
+    <h3 class="subsection-title">Par classe</h3>
+    <table class="status-table" id="st-class-table">
+      <thead>
+        <tr>
+          <th>Classe</th>
+          <th>Total</th>
+          <th>Maîtrisés</th>
+          <th>Apprentissage</th>
+          <th>Nouveau</th>
+          <th>%</th>
+        </tr>
+      </thead>
+      <tbody id="st-class-tbody"></tbody>
+    </table>
+
+    <h3 class="subsection-title">Par type</h3>
+    <table class="status-table" id="st-type-table">
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Total</th>
+          <th>Maîtrisés</th>
+          <th>%</th>
+        </tr>
+      </thead>
+      <tbody id="st-type-tbody"></tbody>
+    </table>
+  </div>
+
+  <!-- MISTAKES -->
+  <div id="view-mistakes" class="view hidden">
+    <h2 class="section-title">Concepts difficiles</h2>
+    <p class="mistakes-subtitle" id="mistakes-subtitle"></p>
+    <div class="mistakes-list" id="mistakes-list"></div>
+  </div>
+
+  <!-- SUMMARY -->
+  <div id="view-summary" class="view hidden">
+    <div class="summary-card">
+      <h2 class="summary-title">Session terminée !</h2>
+      <div class="summary-scores">
+        <div class="score-item score-correct">
+          <span class="score-num" id="sum-correct"></span>
+          <span class="score-label">Corrects</span>
+        </div>
+        <div class="score-item score-wrong">
+          <span class="score-num" id="sum-wrong"></span>
+          <span class="score-label">Erreurs</span>
+        </div>
+        <div class="score-item score-pct">
+          <span class="score-num" id="sum-pct"></span>
+          <span class="score-label">Score</span>
+        </div>
+      </div>
+
+      <div class="summary-lists">
+        <div id="sum-wrong-list-wrap" class="hidden">
+          <h3 class="summary-list-title">À retravailler</h3>
+          <div class="summary-list" id="sum-wrong-list"></div>
+        </div>
+        <div id="sum-correct-list-wrap" class="hidden">
+          <h3 class="summary-list-title">Bien répondu</h3>
+          <div class="summary-list" id="sum-correct-list"></div>
+        </div>
+      </div>
+
+      <button class="action-btn primary" id="sum-home">← Retour à l'accueil</button>
+    </div>
+  </div>
+
+  <!-- ERROR / LOADING -->
+  <div id="view-loading" class="view hidden">
+    <div class="loading-box">
+      <p class="loading-text" id="loading-text">Chargement…</p>
+    </div>
+  </div>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

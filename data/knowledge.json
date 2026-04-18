@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "class01_vocab_01",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la classe",
+    "english": "the classroom",
+    "context": "C'est la classe. Ce sont les classes.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_02",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la porte",
+    "english": "the door",
+    "context": "C'est la porte. Ce sont les portes.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_03",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la fenêtre",
+    "english": "the window",
+    "context": "C'est la fenêtre. Ce sont les fenêtres.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_04",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la table",
+    "english": "the table",
+    "context": "C'est la table. Ce sont les tables.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_05",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la chaise",
+    "english": "the chair",
+    "context": "C'est la chaise. Ce sont les chaises.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_06",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la lampe",
+    "english": "the lamp",
+    "context": "C'est la lampe. Ce sont les lampes.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_07",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "le livre",
+    "english": "the book",
+    "context": "C'est le livre. Ce sont les livres.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_08",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "le cahier",
+    "english": "the notebook",
+    "context": "C'est le cahier. Ce sont les cahiers.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_09",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "le stylo",
+    "english": "the pen",
+    "context": "C'est le stylo. Ce sont les stylos.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_10",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "le sac",
+    "english": "the bag",
+    "context": "C'est le sac. Ce sont les sacs.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_11",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "le téléphone",
+    "english": "the telephone",
+    "context": "C'est le téléphone. Ce sont les téléphones.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_12",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "le tableau",
+    "english": "the board / the painting",
+    "context": "C'est le tableau. Ce sont les tableaux.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_vocab_13",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "la pièce",
+    "english": "the room",
+    "context": "Non, ce n'est pas la classe, c'est la pièce.",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_vocab_14",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "prendre",
+    "english": "to take",
+    "context": "je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_vocab_15",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "apprendre",
+    "english": "to learn",
+    "context": "J'apprends le français.",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_vocab_16",
+    "source": "class 1.txt",
+    "type": "vocabulary",
+    "french": "comprendre",
+    "english": "to understand",
+    "context": "Je comprends. / Je ne comprends pas.",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_expr_01",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "Bonjour, comment ça va ?",
+    "english": "Hello, how are you?",
+    "context": "Standard greeting. Reply: Ça va bien, merci. Et toi ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_02",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "Ça va bien, merci.",
+    "english": "I'm fine, thank you.",
+    "context": "Reply to 'comment ça va?'",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_03",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "Au revoir",
+    "english": "Goodbye",
+    "context": "Used when parting. Also: À bientôt, À demain, À plus tard.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_04",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "À bientôt",
+    "english": "See you soon",
+    "context": "Informal farewell when you'll see them again soon.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_05",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "À demain",
+    "english": "See you tomorrow",
+    "context": "Used when parting and you'll meet again the next day.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_06",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "À plus tard / à plus",
+    "english": "See you later",
+    "context": "Informal farewell. 'À plus' is even more casual.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_07",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "Bonne chance",
+    "english": "Good luck",
+    "context": "Bonne chance ! Au revoir !",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_expr_08",
+    "source": "class 1.txt",
+    "type": "expression",
+    "french": "Je m'appelle… J'ai … ans. Je suis… J'habite à… J'apprends le français.",
+    "english": "Self-introduction template: My name is… I am … years old. I am… I live in… I am learning French.",
+    "context": "Standard self-introduction used in class.",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_grammar_01",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Articles indéfinis: un, une, des",
+    "english": "Indefinite articles: a/an (m), a/an (f), some (pl)",
+    "context": "un livre (a book), une table (a table), des cahiers (some notebooks)",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_grammar_02",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Articles définis: le, la, l', les",
+    "english": "Definite articles: the (m), the (f), the (before vowel/h), the (pl)",
+    "context": "le livre, la table, l'ami, les livres. le/la → l' before a vowel or silent h.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_grammar_03",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Qu'est-ce que c'est ? → C'est… / Ce sont…",
+    "english": "What is this? → It is… / These are… (for things)",
+    "context": "Qu'est-ce que c'est ? C'est le livre. Ce sont les livres.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_grammar_04",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Qui est-ce ? / C'est qui ? → C'est…",
+    "english": "Who is this? → It is… (for people)",
+    "context": "Qui est-ce ? C'est Pierre. C'est ma mère.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_grammar_05",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Ce n'est pas… / Ce ne sont pas…",
+    "english": "It is not… / These are not…",
+    "context": "Non, ce n'est pas la classe, c'est la pièce. Ce ne sont pas mes parents.",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_grammar_06",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Est-ce que… ?",
+    "english": "Yes/no question marker (Is it…? / Do…?)",
+    "context": "Est-ce que c'est la classe ? Oui, c'est la classe.",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_grammar_07",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "Adjectifs possessifs: mon/ma/mes, ton/ta/tes, son/sa/ses",
+    "english": "Possessive adjectives: my, your (informal), his/her",
+    "context": "C'est mon père, c'est ma mère, ce sont mes parents. Use 'mon' before feminine nouns starting with a vowel: mon amie.",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_grammar_08",
+    "source": "class 1.txt",
+    "type": "grammar",
+    "french": "La liaison",
+    "english": "Linking: final silent consonant is pronounced before a following vowel sound",
+    "context": "les amis [lezami], deux amis [døzami], nous allons [nuzalõ]",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_conjugation_01",
+    "source": "class 1.txt",
+    "type": "conjugation",
+    "french": "donner (présent) — modèle du 1er groupe (-er)",
+    "english": "to give — 1st group (-er verb) model",
+    "context": "je donne, tu donnes, il donne, nous donnons, vous donnez, ils donnent",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_conjugation_02",
+    "source": "class 1.txt",
+    "type": "conjugation",
+    "french": "finir (présent) — modèle du 2e groupe (-ir)",
+    "english": "to finish — 2nd group (-ir verb) model",
+    "context": "je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_conjugation_03",
+    "source": "class 1.txt",
+    "type": "conjugation",
+    "french": "être (présent)",
+    "english": "to be (present tense)",
+    "context": "je suis, tu es, il est, nous sommes, vous êtes, ils sont",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_conjugation_04",
+    "source": "class 1.txt",
+    "type": "conjugation",
+    "french": "avoir (présent)",
+    "english": "to have (present tense)",
+    "context": "j'ai, tu as, il a, nous avons, vous avez, ils ont",
+    "difficulty": 1
+  },
+  {
+    "id": "class01_conjugation_05",
+    "source": "class 1.txt",
+    "type": "conjugation",
+    "french": "se laver (présent) — verbe réfléchi",
+    "english": "to wash oneself (present tense) — reflexive verb",
+    "context": "je me lave, tu te laves, il/elle se lave, nous nous lavons, vous vous lavez, ils se lavent",
+    "difficulty": 2
+  },
+  {
+    "id": "class01_conjugation_06",
+    "source": "class 1.txt",
+    "type": "conjugation",
+    "french": "s'appeler (présent) — verbe réfléchi",
+    "english": "to be called / to introduce oneself (present tense)",
+    "context": "je m'appelle, tu t'appelles, il/elle s'appelle, nous nous appelons, vous vous appelez, ils s'appellent",
+    "difficulty": 2
+  },
+  {
+    "id": "class02_vocab_01",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "M. / Monsieur",
+    "english": "Mr. / Sir",
+    "context": "Bonjour, Monsieur. (formal address for a man)",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_vocab_02",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "Mme / Madame",
+    "english": "Mrs. / Madam",
+    "context": "Bonjour, Madame. (formal address for a woman)",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_vocab_03",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "Mlle / Mademoiselle",
+    "english": "Miss",
+    "context": "Bonjour, Mademoiselle. (formal address for a young woman)",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_vocab_04",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "un ami / une amie",
+    "english": "a (male) friend / a (female) friend",
+    "context": "J'ai un ami. Elle a une amie. Note: mon amie (not ma amie — vowel rule).",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_vocab_05",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "aujourd'hui",
+    "english": "today",
+    "context": "Aujourd'hui c'est le 28 février.",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_vocab_06",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "demain",
+    "english": "tomorrow",
+    "context": "À demain ! / Il va en France demain.",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_vocab_07",
+    "source": "class 2.txt",
+    "type": "vocabulary",
+    "french": "hier",
+    "english": "yesterday",
+    "context": "Hier j'étais à la maison.",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_expr_01",
+    "source": "class 2.txt",
+    "type": "expression",
+    "french": "s'il vous plaît",
+    "english": "please (formal / plural)",
+    "context": "Used with 'vous'. Épelez votre nom, s'il vous plaît.",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_expr_02",
+    "source": "class 2.txt",
+    "type": "expression",
+    "french": "s'il te plaît",
+    "english": "please (informal)",
+    "context": "Used with 'tu'. Répète, s'il te plaît.",
+    "difficulty": 1
+  },
+  {
+    "id": "class02_expr_03",
+    "source": "class 2.txt",
+    "type": "expression",
+    "french": "Asseyez-vous / Assieds-toi",
+    "english": "Sit down (formal) / Sit down (informal)",
+    "context": "From s'asseoir (to sit down). Asseyez-vous, s'il vous plaît.",
+    "difficulty": 2
+  },
+  {
+    "id": "class02_grammar_01",
+    "source": "class 2.txt",
+    "type": "grammar",
+    "french": "La liaison avec les nombres",
+    "english": "Liaison (linking) with numbers before vowel sounds",
+    "context": "deux amis [døzami], trois amis [trwazami], six ans [sizã], dix ans [dizã]. The final consonant of the number is pronounced before a vowel.",
+    "difficulty": 2
+  },
+  {
+    "id": "class03_vocab_01",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "voler",
+    "english": "to fly",
+    "context": "L'oiseau vole. (The bird flies.) — 1st group -er verb.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_02",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "travailler",
+    "english": "to work",
+    "context": "Je travaille à Vilnius. Il ne travaille pas le samedi.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_03",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "écouter",
+    "english": "to listen (to)",
+    "context": "J'écoute la radio. Écoute ! (Listen!) — 1st group -er verb.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_04",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "la pluie",
+    "english": "the rain",
+    "context": "Est-ce que ça tombe ? Oui, ça tombe. C'est la pluie.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_05",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "le bruit",
+    "english": "the noise",
+    "context": "Qu'est-ce que c'est ? C'est le bruit.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_06",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "mouillé / mouillée",
+    "english": "wet",
+    "context": "Est-ce que c'est mouillé ? Oui, c'est mouillé.",
+    "difficulty": 2
+  },
+  {
+    "id": "class03_vocab_07",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "le prénom",
+    "english": "the first name",
+    "context": "Mon prénom c'est Marie. Épelez votre prénom, s'il vous plaît.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_08",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "le nom",
+    "english": "the surname / last name",
+    "context": "Mon nom c'est Dupont. Quel est votre nom ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_vocab_09",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "revenir",
+    "english": "to come back / to return",
+    "context": "Il va en France le 28 janvier, il revient le 31 janvier.",
+    "difficulty": 2
+  },
+  {
+    "id": "class03_vocab_10",
+    "source": "class 3.txt",
+    "type": "vocabulary",
+    "french": "plus / moins / égale",
+    "english": "plus (+) / minus (−) / equals (=)",
+    "context": "Onze plus trois égale quatorze. Dix moins cinq égale cinq.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_grammar_01",
+    "source": "class 3.txt",
+    "type": "grammar",
+    "french": "Les nombres: soixante-dix (70), quatre-vingts (80), quatre-vingt-dix (90)",
+    "english": "Numbers 70–99: based on 60+10, 4×20, 4×20+10",
+    "context": "70=soixante-dix, 71=soixante et onze, 72=soixante-douze, 80=quatre-vingts, 81=quatre-vingt-un, 90=quatre-vingt-dix, 91=quatre-vingt-onze, 92=quatre-vingt-douze",
+    "difficulty": 2
+  },
+  {
+    "id": "class03_grammar_02",
+    "source": "class 3.txt",
+    "type": "grammar",
+    "french": "cent (100), mille (1000), un million (1 000 000)",
+    "english": "hundred, thousand, million",
+    "context": "J'ai cent euros. Il y a mille habitants. Un million de personnes.",
+    "difficulty": 1
+  },
+  {
+    "id": "class03_grammar_03",
+    "source": "class 3.txt",
+    "type": "grammar",
+    "french": "Je suis né(e) en [année] / le [date]",
+    "english": "I was born in [year] / on [date]",
+    "context": "Je suis né en 1990. Je suis née le 14 mars 1995. En quelle année tu es né ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_expr_01",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Comment tu t'appelles ? / Comment vous vous appelez ?",
+    "english": "What is your name? (informal / formal)",
+    "context": "Comment tu t'appelles ? Je m'appelle Rita.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_expr_02",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Où tu habites ? / Où vous habitez ?",
+    "english": "Where do you live? (informal / formal)",
+    "context": "Où tu habites ? J'habite en Lituanie, à Vilnius.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_expr_03",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Tu as quel âge ? / Vous avez quel âge ?",
+    "english": "How old are you? (informal / formal)",
+    "context": "Tu as quel âge ? J'ai vingt-cinq ans.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_expr_04",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Quelle est ta nationalité ? / Quelle est votre nationalité ?",
+    "english": "What is your nationality? (informal / formal)",
+    "context": "Quelle est ta nationalité ? Je suis lituanien(ne).",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_expr_05",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Quelle est ton adresse ? / Quelle est ton adresse électronique ?",
+    "english": "What is your address? / What is your email address?",
+    "context": "J'habite 16, rue Tako à Vilnius.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_expr_06",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Tu parles quelles langues ? / Vous parlez quelles langues ?",
+    "english": "What languages do you speak?",
+    "context": "Je parle lituanien, anglais et russe.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_expr_07",
+    "source": "class 4.txt",
+    "type": "expression",
+    "french": "Tu es célibataire ou marié(e) ?",
+    "english": "Are you single or married?",
+    "context": "Je suis célibataire. / Je suis marié(e), j'ai deux enfants.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_01",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "célibataire",
+    "english": "single (unmarried)",
+    "context": "Je suis célibataire. (same form for m/f)",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_02",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "marié / mariée",
+    "english": "married (m / f)",
+    "context": "Il est marié. Elle est mariée. Je suis marié(e), j'ai deux enfants.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_03",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "une fille",
+    "english": "a daughter (also: a girl)",
+    "context": "J'ai deux enfants: une fille et un fils. Pronounced [fij].",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_04",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "un fils",
+    "english": "a son",
+    "context": "J'ai un fils et une fille. Pronounced [fis] — the 'l' is silent.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_vocab_05",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "le pays",
+    "english": "the country / land",
+    "context": "Le pays [pėjy]. Quel est ton pays ? Je viens de Lituanie.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_06",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "la ville",
+    "english": "the city / town",
+    "context": "La ville [vil]. J'habite dans une grande ville.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_07",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "la nationalité",
+    "english": "the nationality",
+    "context": "Quelle est ta nationalité ? Je suis de nationalité lituanienne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_08",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "la langue",
+    "english": "the language",
+    "context": "Quelle langue tu apprends ? J'apprends le français.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_09",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "se coiffer",
+    "english": "to do one's hair",
+    "context": "Je me coiffe. Tu te coiffes. Il/elle se coiffe. — reflexive verb.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_vocab_10",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "se coucher",
+    "english": "to go to bed / to lie down",
+    "context": "Je me couche à 22h. Tu te couches. Il se couche. — reflexive verb.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_vocab_11",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "se reposer",
+    "english": "to rest",
+    "context": "Je me repose le dimanche. Elle se repose. — reflexive verb.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_vocab_12",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "la nuit",
+    "english": "the night",
+    "context": "La nuit, le bonhomme de neige galope dans la neige.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_13",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "l'hiver (m)",
+    "english": "winter",
+    "context": "En hiver, il fait froid. L'hiver est ma saison préférée.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_vocab_14",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "galoper",
+    "english": "to gallop / to run bounding",
+    "context": "Le bonhomme de neige galope dans la nuit.",
+    "difficulty": 3
+  },
+  {
+    "id": "class04_vocab_15",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "un bonhomme de neige",
+    "english": "a snowman",
+    "context": "«Le bonhomme de neige» — poem by Jacques Prévert.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_vocab_16",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "se réchauffer",
+    "english": "to warm up / to warm oneself",
+    "context": "Il entre dans la maison pour se réchauffer. — reflexive verb.",
+    "difficulty": 3
+  },
+  {
+    "id": "class04_vocab_17",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "disparaître",
+    "english": "to disappear",
+    "context": "Et d'un coup il disparaît — il fond sur le poêle.",
+    "difficulty": 3
+  },
+  {
+    "id": "class04_vocab_18",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "une flaque d'eau",
+    "english": "a puddle",
+    "context": "Au milieu d'une flaque d'eau — in the middle of a puddle.",
+    "difficulty": 3
+  },
+  {
+    "id": "class04_vocab_19",
+    "source": "class 4.txt",
+    "type": "vocabulary",
+    "french": "un chapeau",
+    "english": "a hat",
+    "context": "Son vieux chapeau. Il porte un chapeau.",
+    "difficulty": 1
+  },
+  {
+    "id": "class04_grammar_01",
+    "source": "class 4.txt",
+    "type": "grammar",
+    "french": "Quel / quelle / quels / quelles",
+    "english": "Which / What (interrogative adjective — agrees in gender and number)",
+    "context": "Quel est ton nom ? (m.sg.) Quelle est ta nationalité ? (f.sg.) Quels livres ? (m.pl.) Quelles langues ? (f.pl.)",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_grammar_02",
+    "source": "class 4.txt",
+    "type": "grammar",
+    "french": "Prépositions avec les pays: en / au / aux / à",
+    "english": "Prepositions with countries and cities: en (fem.), au (masc.), aux (plural), à (cities)",
+    "context": "en France, en Lituanie, en Allemagne (feminine) | au Portugal, au Danemark (masculine) | aux États-Unis, aux Pays-Bas (plural) | à Paris, à Vilnius (cities)",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_grammar_03",
+    "source": "class 4.txt",
+    "type": "grammar",
+    "french": "Pays + nationalités: la France → français(e), la Lituanie → lituanien(ne), l'Allemagne → allemand(e), l'Angleterre → anglais(e), l'Italie → italien(ne)",
+    "english": "Country → nationality/language: France → French, Lithuania → Lithuanian, Germany → German, England → English, Italy → Italian",
+    "context": "Je suis français. Elle est lituanienne. Il parle allemand.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_grammar_04",
+    "source": "class 4.txt",
+    "type": "grammar",
+    "french": "Pays + nationalités: le Portugal → portugais(e), le Danemark → danois(e), le Canada → canadien(ne), les États-Unis → américain(e), la Russie → russe, la Suisse → suisse, la Belgique → belge",
+    "english": "Country → nationality: Portugal → Portuguese, Denmark → Danish, Canada → Canadian, USA → American, Russia → Russian, Switzerland → Swiss, Belgium → Belgian",
+    "context": "Il est portugais. Elle est danoise. Nous sommes canadiens.",
+    "difficulty": 2
+  },
+  {
+    "id": "class04_grammar_05",
+    "source": "class 4.txt",
+    "type": "grammar",
+    "french": "en + continent: en Amérique, en Afrique, en Europe, en Australie, en Asie",
+    "english": "Preposition 'en' used before continents",
+    "context": "Je vis en Europe. Il voyage en Asie. Nous allons en Amérique du Nord.",
+    "difficulty": 2
+  },
+  {
+    "id": "class05_vocab_01",
+    "source": "class 5.txt",
+    "type": "vocabulary",
+    "french": "mais",
+    "english": "but",
+    "context": "Je parle anglais, mais je n'apprends pas le français. Il est portugais mais il habite en Espagne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class05_vocab_02",
+    "source": "class 5.txt",
+    "type": "vocabulary",
+    "french": "veuf / veuve",
+    "english": "widower / widow",
+    "context": "Il est veuf, il vit seul. Elle est veuve depuis deux ans.",
+    "difficulty": 2
+  },
+  {
+    "id": "class05_vocab_03",
+    "source": "class 5.txt",
+    "type": "vocabulary",
+    "french": "un enfant",
+    "english": "a child",
+    "context": "J'ai deux enfants: une fille et un fils. Ses enfants habitent en Espagne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class05_grammar_01",
+    "source": "class 5.txt",
+    "type": "grammar",
+    "french": "Je parle français (sans article) vs. j'apprends le français / je comprends le français (avec article)",
+    "english": "No article after 'parler' for languages; definite article required after 'apprendre' and 'comprendre'",
+    "context": "Je parle français. ✓ / Je parle le français. ✗ | J'apprends le français. ✓ / J'apprends français. ✗",
+    "difficulty": 3
+  },
+  {
+    "id": "class05_grammar_02",
+    "source": "class 5.txt",
+    "type": "grammar",
+    "french": "Pays + nationalités: la Chine → chinois(e) / en Chine; l'Espagne → espagnol(e) / en Espagne",
+    "english": "Country → nationality: China → Chinese; Spain → Spanish",
+    "context": "Il est chinois. Elle est espagnole. Je vais en Chine, en Espagne.",
+    "difficulty": 2
+  },
+  {
+    "id": "class05_grammar_03",
+    "source": "class 5.txt",
+    "type": "grammar",
+    "french": "Pays + nationalités: la Lettonie → letton(ne) / en Lettonie; l'Estonie → estonien(ne) / en Estonie",
+    "english": "Country → nationality: Latvia → Latvian; Estonia → Estonian",
+    "context": "Riga est en Lettonie. Tallinn est en Estonie.",
+    "difficulty": 2
+  },
+  {
+    "id": "class06_conjugation_01",
+    "source": "class 6.txt",
+    "type": "conjugation",
+    "french": "aimer (présent)",
+    "english": "to like / to love (present tense)",
+    "context": "j'aime, tu aimes, il aime, nous aimons, vous aimez, ils aiment",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_conjugation_02",
+    "source": "class 6.txt",
+    "type": "conjugation",
+    "french": "adorer (présent)",
+    "english": "to adore / to love (present tense)",
+    "context": "j'adore, tu adores, il adore, nous adorons, vous adorez, ils adorent",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_conjugation_03",
+    "source": "class 6.txt",
+    "type": "conjugation",
+    "french": "détester (présent)",
+    "english": "to hate / to detest (present tense)",
+    "context": "je déteste, tu détestes, il déteste, nous détestons, vous détestez, ils détestent",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_grammar_01",
+    "source": "class 6.txt",
+    "type": "grammar",
+    "french": "aimer / adorer / détester + le / la / les (article défini)",
+    "english": "verbs of preference take the definite article for general likes/dislikes (never un/une/des)",
+    "context": "J'aime le cinéma. ✓ / J'aime un cinéma. ✗ | Je déteste la pluie. | Il adore les promenades.",
+    "difficulty": 2
+  },
+  {
+    "id": "class06_vocab_01",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "le goût",
+    "english": "taste / liking",
+    "context": "Mes goûts / mes passions. Qu'est-ce que vous aimez faire ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class06_vocab_02",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "le cinéma",
+    "english": "the cinema / movies",
+    "context": "J'aime le cinéma. Je vais au cinéma le week-end.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_03",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "le théâtre",
+    "english": "the theatre",
+    "context": "Il adore le théâtre. Elle va au théâtre ce soir.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_04",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "la musique",
+    "english": "music",
+    "context": "J'aime la musique classique. Elle écoute de la musique.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_05",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "le sport",
+    "english": "sport",
+    "context": "Il aime le sport. Je fais du sport tous les jours.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_06",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "la promenade",
+    "english": "a walk / a stroll",
+    "context": "J'aime les promenades avec mon chien. Faire une promenade.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_07",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "seul / seule",
+    "english": "alone / lonely",
+    "context": "Je n'aime pas être seul à la maison. Elle est seule.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_08",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "la lecture",
+    "english": "reading",
+    "context": "Je n'aime pas la lecture. Mes passions: la lecture et les voyages.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_09",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "lire",
+    "english": "to read",
+    "context": "J'aime lire. Je vais lire ce livre. — 3rd group irregular verb.",
+    "difficulty": 2
+  },
+  {
+    "id": "class06_vocab_10",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "regarder la télévision",
+    "english": "to watch television",
+    "context": "Le soir, il aime regarder la télévision.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_vocab_11",
+    "source": "class 6.txt",
+    "type": "vocabulary",
+    "french": "écouter la radio",
+    "english": "to listen to the radio",
+    "context": "Elle écoute la radio le matin.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_expr_01",
+    "source": "class 6.txt",
+    "type": "expression",
+    "french": "Qu'est-ce que vous aimez faire ?",
+    "english": "What do you like to do?",
+    "context": "Qu'est-ce que vous aimez faire ? J'aime lire et me promener.",
+    "difficulty": 1
+  },
+  {
+    "id": "class06_expr_02",
+    "source": "class 6.txt",
+    "type": "expression",
+    "french": "être seul(e) à la maison",
+    "english": "to be alone at home",
+    "context": "Je n'aime pas être seul à la maison.",
+    "difficulty": 2
+  },
+  {
+    "id": "class06_grammar_02",
+    "source": "class 6.txt",
+    "type": "grammar",
+    "french": "Nationalités: polonais / polonaise (Polish); suédois / suédoise (Swedish)",
+    "english": "Nationality adjectives: Polish (m/f), Swedish (m/f)",
+    "context": "Il est polonais. Elle est suédoise. La Pologne / la Suède.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_grammar_01",
+    "source": "class 7.txt",
+    "type": "grammar",
+    "french": "faire + du / de la / de l' / des + activité",
+    "english": "faire de + activity: contractions de+le=du, de+la=de la, de+l'=de l', de+les=des",
+    "context": "Je fais du sport, de la natation, de l'athlétisme, des échecs. Rule: de+le=du, de+les=des.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_grammar_02",
+    "source": "class 7.txt",
+    "type": "grammar",
+    "french": "aller + au / à la / à l' / aux + lieu",
+    "english": "aller à + place: contractions à+le=au, à+la=à la, à+l'=à l', à+les=aux",
+    "context": "Je vais au cinéma, à la mer, à l'hôpital, aux toilettes. Rule: à+le=au, à+les=aux.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_grammar_03",
+    "source": "class 7.txt",
+    "type": "grammar",
+    "french": "on = nous",
+    "english": "'on' is used informally to mean 'we' (nous)",
+    "context": "On va au cinéma. = Nous allons au cinéma. On dit que... On mange des grenouilles.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_grammar_04",
+    "source": "class 7.txt",
+    "type": "grammar",
+    "french": "tout / toute / tous / toutes",
+    "english": "all / every / everything — agrees in gender and number",
+    "context": "J'ai lu tout le livre. J'ai mangé toute la soupe. Voilà tous mes amis. Toutes mes amies. / As pronoun: J'ai mangé tout. Tous ensemble.",
+    "difficulty": 3
+  },
+  {
+    "id": "class07_conjugation_01",
+    "source": "class 7.txt",
+    "type": "conjugation",
+    "french": "vouloir (présent)",
+    "english": "to want (present tense)",
+    "context": "je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_conjugation_02",
+    "source": "class 7.txt",
+    "type": "conjugation",
+    "french": "pouvoir (présent)",
+    "english": "to be able to / can (present tense)",
+    "context": "je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_vocab_01",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la natation",
+    "english": "swimming",
+    "context": "Je fais de la natation. J'adore la natation.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_02",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le ski",
+    "english": "skiing",
+    "context": "Je fais du ski à la montagne. Il adore le ski.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_03",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le football",
+    "english": "football / soccer",
+    "context": "Je fais du football. On va au stade faire du football.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_04",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le basketball",
+    "english": "basketball",
+    "context": "Il fait du basketball tous les week-ends.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_05",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la randonnée",
+    "english": "hiking",
+    "context": "Je fais de la randonnée à la montagne.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_vocab_06",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le vélo",
+    "english": "bicycle / cycling",
+    "context": "Je fais du vélo le week-end. Elle aime le vélo.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_07",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "les échecs (m. pl.)",
+    "english": "chess",
+    "context": "Je fais des échecs. Il adore jouer aux échecs.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_vocab_08",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "l'athlétisme (m)",
+    "english": "athletics / track and field",
+    "context": "Je vais au stade faire de l'athlétisme.",
+    "difficulty": 2
+  },
+  {
+    "id": "class07_vocab_09",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le jardin",
+    "english": "the garden",
+    "context": "Je fais du jardin. Le jardin est derrière la maison.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_10",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le café",
+    "english": "the café / coffee",
+    "context": "Je vais au café avec mes amis.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_11",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le restaurant",
+    "english": "the restaurant",
+    "context": "Il veut aller au restaurant chinois.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_12",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le concert",
+    "english": "the concert",
+    "context": "Je vais au concert ce soir. J'adore aller au concert avec des amis.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_13",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le musée",
+    "english": "the museum",
+    "context": "J'adore aller au musée. Il y a un musée près d'ici.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_14",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le magasin",
+    "english": "the shop / store",
+    "context": "Je vais au magasin. On va aux magasins samedi.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_15",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le marché",
+    "english": "the market",
+    "context": "Je vais au marché le dimanche matin.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_16",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le travail",
+    "english": "work / the workplace",
+    "context": "Je vais au travail. Je ne travaille pas le samedi.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_17",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la mer",
+    "english": "the sea",
+    "context": "J'adore aller à la mer. On passe les vacances à la mer.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_18",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la campagne",
+    "english": "the countryside",
+    "context": "Je vais à la campagne le week-end. J'aime la campagne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_19",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la montagne",
+    "english": "the mountain(s)",
+    "context": "Je vais à la montagne faire du ski. J'adore la montagne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_20",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la piscine",
+    "english": "the swimming pool",
+    "context": "Je vais à la piscine. On fait de la natation à la piscine.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_21",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "la gare",
+    "english": "the train station",
+    "context": "Je vais à la gare prendre le train.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_22",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "l'hôpital (m)",
+    "english": "the hospital",
+    "context": "Je vais à l'hôpital. Il est malade, il est à l'hôpital.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_23",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le stade",
+    "english": "the stadium",
+    "context": "Je vais au stade faire du football.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_24",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "les vacances (f. pl.)",
+    "english": "the holidays / vacation",
+    "context": "J'adore les vacances à la mer. On part en vacances en juillet.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_25",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "le froid",
+    "english": "the cold",
+    "context": "Il déteste le froid. En hiver il fait froid.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_26",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "avec",
+    "english": "with",
+    "context": "Je vais au cinéma avec mes amis. Avec ma sœur.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_27",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "pourquoi / parce que",
+    "english": "why / because",
+    "context": "Pourquoi tu ne vas pas au concert ? Parce que je suis fatigué.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_28",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "triste",
+    "english": "sad",
+    "context": "Pourquoi tu es triste ? Je n'aime pas être seul.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_29",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "fatigué / fatiguée",
+    "english": "tired",
+    "context": "Je suis fatigué(e). Elle est fatiguée, elle ne veut pas sortir.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_30",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "être malade",
+    "english": "to be ill / sick",
+    "context": "Je suis malade, je ne peux pas aller au travail.",
+    "difficulty": 1
+  },
+  {
+    "id": "class07_vocab_31",
+    "source": "class 7.txt",
+    "type": "vocabulary",
+    "french": "un billet",
+    "english": "a ticket",
+    "context": "J'ai un billet au cirque. Un billet de train.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_grammar_01",
+    "source": "class 8.txt",
+    "type": "grammar",
+    "french": "Adjectifs possessifs (paradigme complet): notre/nos, votre/vos, leur/leurs",
+    "english": "Possessive adjectives (full paradigm): our, your (formal/pl), their",
+    "context": "C'est notre voiture. Ce sont nos voitures. C'est votre passeport. Ce sont vos enfants. C'est leur maison. Ce sont leurs enfants.",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_grammar_02",
+    "source": "class 8.txt",
+    "type": "grammar",
+    "french": "mon / ton / son devant un nom féminin commençant par une voyelle",
+    "english": "Use mon/ton/son (not ma/ta/sa) before feminine nouns starting with a vowel or silent h",
+    "context": "mon amie ✓ (not ma amie) | mon adresse ✓ | mon herbe ✓ | mon arbre ✓",
+    "difficulty": 3
+  },
+  {
+    "id": "class08_grammar_03",
+    "source": "class 8.txt",
+    "type": "grammar",
+    "french": "Le futur proche: aller (présent) + infinitif",
+    "english": "Near future tense: present of aller + infinitive",
+    "context": "Je vais lire. Tu vas partir. Il va faire du ski. Nous allons travailler. Nous n'allons pas travailler.",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_conjugation_01",
+    "source": "class 8.txt",
+    "type": "conjugation",
+    "french": "devoir (présent)",
+    "english": "to have to / must (present tense)",
+    "context": "je dois, tu dois, il/elle/on doit, nous devons, vous devez, ils/elles doivent",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_conjugation_02",
+    "source": "class 8.txt",
+    "type": "conjugation",
+    "french": "voir (présent)",
+    "english": "to see (present tense)",
+    "context": "je vois, tu vois, il/elle/on voit, nous voyons, vous voyez, ils/elles voient",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_conjugation_03",
+    "source": "class 8.txt",
+    "type": "conjugation",
+    "french": "croire (présent)",
+    "english": "to believe / to think (present tense)",
+    "context": "je crois, tu crois, il/elle/on croit, nous croyons, vous croyez, ils/elles croient",
+    "difficulty": 3
+  },
+  {
+    "id": "class08_vocab_01",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "un ordinateur",
+    "english": "a computer",
+    "context": "J'ai un ordinateur. C'est mon ordinateur.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_02",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "une voiture",
+    "english": "a car",
+    "context": "Nous avons une voiture. C'est notre voiture.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_03",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "un frère / une sœur",
+    "english": "a brother / a sister",
+    "context": "J'ai un frère et une sœur. Mon frère est né en septembre.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_04",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "un voisin / une voisine",
+    "english": "a neighbour (m / f)",
+    "context": "Mon voisin s'appelle Paul. Sa voisine est sympathique.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_05",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "la comédie musicale",
+    "english": "musical (theatrical show)",
+    "context": "Sophie veut aller à la comédie musicale.",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_vocab_06",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "gentil / gentille",
+    "english": "kind / nice",
+    "context": "Mes amis sont bons et gentils. Elle est très gentille.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_07",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "l'anniversaire (m)",
+    "english": "birthday",
+    "context": "Mon anniversaire est en mars. Quand est ton anniversaire ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_expr_01",
+    "source": "class 8.txt",
+    "type": "expression",
+    "french": "avoir faim",
+    "english": "to be hungry",
+    "context": "Patrice a faim, il veut aller au restaurant. Tu as faim ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_expr_02",
+    "source": "class 8.txt",
+    "type": "expression",
+    "french": "passer les vacances à / en…",
+    "english": "to spend the holidays in / at…",
+    "context": "Il passe ses vacances à la mer. On passe les vacances en France.",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_vocab_08",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "traverser",
+    "english": "to cross (a street, a bridge, a square)",
+    "context": "Il faut traverser la rue. Elle traverse le pont.",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_vocab_09",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "l'aéroport (m)",
+    "english": "the airport",
+    "context": "Je vais à l'aéroport. Le vol part de l'aéroport.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_10",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "le village",
+    "english": "the village",
+    "context": "Il habite dans un village. Le bonhomme de neige arrive au village.",
+    "difficulty": 1
+  },
+  {
+    "id": "class08_vocab_11",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "la mairie",
+    "english": "the town hall",
+    "context": "Je vais à la mairie. On se marie à la mairie.",
+    "difficulty": 2
+  },
+  {
+    "id": "class08_vocab_12",
+    "source": "class 8.txt",
+    "type": "vocabulary",
+    "french": "la boulangerie",
+    "english": "the bakery",
+    "context": "Je vais à la boulangerie acheter du pain. Le boulanger / la boulangère.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_grammar_01",
+    "source": "class 9.txt",
+    "type": "grammar",
+    "french": "Il y a / Il n'y a pas de + nom sans article",
+    "english": "There is/are / There is/are no + noun without article",
+    "context": "Il y a des fleurs. → Il n'y a pas de fleurs. | Il y a un livre. → Il n'y a pas de livre. After negation, drop article and use 'de'.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_grammar_02",
+    "source": "class 9.txt",
+    "type": "grammar",
+    "french": "Est-ce qu'il y a… ? / Qu'est-ce qu'il y a… ?",
+    "english": "Is there…? / What is there…?",
+    "context": "Est-ce qu'il y a un livre sur ta table ? Qu'est-ce qu'il y a dans ton sac ? Dans mon sac il y a des clés.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_grammar_03",
+    "source": "class 9.txt",
+    "type": "grammar",
+    "french": "Prépositions de lieu: dans, sur, sous, devant, derrière, entre",
+    "english": "Prepositions of place: in/inside, on, under, in front of, behind, between",
+    "context": "Le livre est dans le sac. Le cahier est sur la table. La clé est sous le livre. La table est devant la fenêtre. Le jardin est derrière la maison. La chaise est entre la table et la fenêtre.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_grammar_04",
+    "source": "class 9.txt",
+    "type": "grammar",
+    "french": "beaucoup de / peu de + nom (sans article)",
+    "english": "a lot of / few/little + noun (no article after quantity expressions)",
+    "context": "Il y a beaucoup de lacs en Lituanie. Peu de temps. Beaucoup d'amis.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_grammar_05",
+    "source": "class 9.txt",
+    "type": "grammar",
+    "french": "Expressions de quantité: un kilo de, une tasse de, un verre de, une bouteille de",
+    "english": "Quantity expressions: a kilo of, a cup of, a glass of, a bottle of",
+    "context": "Un kilo de pommes. Une tasse de café. Un verre de vin. Une bouteille d'eau.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_grammar_06",
+    "source": "class 9.txt",
+    "type": "grammar",
+    "french": "Si + il = s'il / Si + elle = si elle (pas d'élision)",
+    "english": "Elision: si + il contracts to s'il, but si + elle stays 'si elle'",
+    "context": "S'il veut. (if he wants) | Si elle veut. (if she wants) | S'il vous plaît.",
+    "difficulty": 3
+  },
+  {
+    "id": "class09_vocab_01",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "la clé",
+    "english": "the key",
+    "context": "Pas de clés. La clé est sous le livre. Qu'est-ce qu'il y a dans ton sac ? Des clés.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_02",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "l'argent (m)",
+    "english": "money",
+    "context": "Pas d'argent. Il n'y a pas d'argent dans le sac.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_03",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le temps",
+    "english": "time / weather",
+    "context": "Pas de temps. Je n'ai pas le temps. Quel temps fait-il ?",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_04",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "une feuille de papier",
+    "english": "a sheet of paper",
+    "context": "Il n'y a pas de livre, mais il y a une feuille de papier.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_05",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "quelques",
+    "english": "some / a few",
+    "context": "Il y a quelques magasins dans la rue. Quelques amis.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_06",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "chez moi / chez vous / chez + personne",
+    "english": "at my place / at your place / at [person]'s place",
+    "context": "Je suis chez moi. Il y a du bruit chez vous ? On va chez nos amis.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_07",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "la cuisine",
+    "english": "the kitchen",
+    "context": "Dans ma cuisine il y a une cuisinière.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_08",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "la chambre",
+    "english": "the bedroom",
+    "context": "Dans ma chambre il y a un lit et un tapis.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_09",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le couloir",
+    "english": "the hallway / corridor",
+    "context": "Il n'y a pas de fleurs dans le couloir.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_10",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "la cour",
+    "english": "the courtyard / yard",
+    "context": "La voiture est dans la cour.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_11",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "l'ascenseur (m)",
+    "english": "the lift / elevator",
+    "context": "Il n'y a pas d'ascenseur dans mon immeuble.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_12",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "un tapis",
+    "english": "a rug / carpet",
+    "context": "Il y a un tapis sur le sol. Le tapis est entre la chaise et le lit.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_13",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le frigo",
+    "english": "the fridge / refrigerator",
+    "context": "Il y a du lait dans le frigo.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_14",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le lit",
+    "english": "the bed",
+    "context": "La petite table est entre la chaise et le lit.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_15",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le sol",
+    "english": "the floor / ground",
+    "context": "Il y a un tapis sur le sol.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_16",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "une fleur",
+    "english": "a flower",
+    "context": "Dans le bois il y a des arbres et des fleurs.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_17",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "un arbre",
+    "english": "a tree",
+    "context": "Sur la montagne il n'y a pas d'arbres. Dans le bois il y a des arbres.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_18",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le lac",
+    "english": "the lake",
+    "context": "En Lituanie il y a beaucoup de lacs.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_19",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "la rivière",
+    "english": "the river",
+    "context": "En Lituanie il y a des rivières, mais pas de hautes montagnes.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_20",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le volcan",
+    "english": "the volcano",
+    "context": "En Lituanie il n'y a pas de volcans.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_21",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le loup",
+    "english": "the wolf",
+    "context": "Dans le bois il y a des loups et des renards.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_22",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le renard",
+    "english": "the fox",
+    "context": "Dans le bois il y a des loups et des renards.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_23",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le tigre",
+    "english": "the tiger",
+    "context": "Il n'y a pas de tigres en Lituanie.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_24",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "le lion",
+    "english": "the lion",
+    "context": "Dans ce pays il y a des lions et des tigres.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_25",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "un ours",
+    "english": "a bear",
+    "context": "Je pense qu'il n'y a pas d'ours ici.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_26",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "l'éléphant (m)",
+    "english": "the elephant",
+    "context": "En Lituanie il n'y a pas d'éléphants.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_27",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "divorcé / divorcée",
+    "english": "divorced (m / f)",
+    "context": "Il est divorcé. Elle est divorcée. Tu es toujours célibataire ? Non, je suis divorcé.",
+    "difficulty": 2
+  },
+  {
+    "id": "class09_vocab_28",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "toujours",
+    "english": "always / still",
+    "context": "Tu es toujours célibataire ? Elle est toujours belle. Il travaille toujours.",
+    "difficulty": 1
+  },
+  {
+    "id": "class09_vocab_29",
+    "source": "class 9.txt",
+    "type": "vocabulary",
+    "french": "encore",
+    "english": "still / again / more",
+    "context": "Il est encore là. Encore une fois. Tu veux encore du café ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_grammar_01",
+    "source": "class 10.txt",
+    "type": "grammar",
+    "french": "Quelle date sommes-nous ? → Nous sommes le [date].",
+    "english": "What is today's date? → Today is the [date].",
+    "context": "Quelle date sommes-nous ? Nous sommes le 28 février 2026. C'est le 14 mars.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_grammar_02",
+    "source": "class 10.txt",
+    "type": "grammar",
+    "french": "En quelle année sommes-nous ? → Nous sommes en [année]. / En quel mois sommes-nous ? → Nous sommes en [mois].",
+    "english": "What year is it? → We are in [year]. / What month is it? → We are in [month].",
+    "context": "En quelle année sommes-nous ? Nous sommes en 2026. En quel mois ? Nous sommes en février.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_grammar_03",
+    "source": "class 10.txt",
+    "type": "grammar",
+    "french": "C'est quel jour de la semaine ? → C'est [jour].",
+    "english": "What day of the week is it? → It's [day].",
+    "context": "C'est quel jour de la semaine ? C'est samedi.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_grammar_04",
+    "source": "class 10.txt",
+    "type": "grammar",
+    "french": "le + jour de la semaine (habitude) vs. jour seul (occasion précise)",
+    "english": "le + day = on [day]s habitually; day alone = this specific [day]",
+    "context": "Je travaille le samedi. (I work on Saturdays.) | Samedi je vais chez mes parents. (This Saturday…) | C'est fermé le lundi.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_grammar_05",
+    "source": "class 10.txt",
+    "type": "grammar",
+    "french": "en + mois / en + année / au mois de + mois",
+    "english": "Prepositions with months and years: en mars, en 2026, au mois de janvier",
+    "context": "Je suis né en mars. Nous sommes en 2026. Au mois de juillet il fait chaud.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_vocab_01",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "Les mois de l'année: janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre",
+    "english": "Months of the year: January, February, March, April, May, June, July, August, September, October, November, December",
+    "context": "En quelle année tu es né ? Je suis né en juillet. Les mois d'été sont juin, juillet et août.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_vocab_02",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "Les jours de la semaine: lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche",
+    "english": "Days of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+    "context": "C'est quel jour ? C'est mercredi. On ne travaille pas le samedi et le dimanche.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_vocab_03",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "le soleil",
+    "english": "the sun",
+    "context": "Il n'y a pas de soleil aujourd'hui. J'aime le soleil.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_vocab_04",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "l'été (m)",
+    "english": "summer",
+    "context": "Les mois d'été sont juin, juillet et août. En été il fait chaud.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_vocab_05",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "le début / la fin",
+    "english": "the beginning / the end",
+    "context": "Le début de la leçon. La fin du film. Du début à la fin.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_vocab_06",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "rentrer",
+    "english": "to return home / to go back",
+    "context": "Je rentre en Lituanie en 2026. Il rentre à la maison à 18h.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_vocab_07",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "partir",
+    "english": "to leave / to depart",
+    "context": "Tu pars à quelle heure ? Le train part à 10h. Ils vont partir en vacances.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_vocab_08",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "un aller simple",
+    "english": "a one-way ticket",
+    "context": "Je voudrais un aller simple pour Paris.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_vocab_09",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "un aller-retour",
+    "english": "a return ticket / round-trip ticket",
+    "context": "Un aller-retour Paris–Lyon, s'il vous plaît.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_vocab_10",
+    "source": "class 10.txt",
+    "type": "vocabulary",
+    "french": "parfois / souvent / en général",
+    "english": "sometimes / often / in general / usually",
+    "context": "Est-ce que vous travaillez le samedi ? Parfois. Souvent. En général, non.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_expr_01",
+    "source": "class 10.txt",
+    "type": "expression",
+    "french": "à côté de (+ le → du / + la → de la / + l' → de l')",
+    "english": "next to / beside",
+    "context": "La banque est à côté du magasin. À côté de la piscine. À côté de l'hôtel.",
+    "difficulty": 2
+  },
+  {
+    "id": "class10_expr_02",
+    "source": "class 10.txt",
+    "type": "expression",
+    "french": "Quand est ton anniversaire ? → Mon anniversaire c'est le [date].",
+    "english": "When is your birthday? → My birthday is on [date].",
+    "context": "Quand est ton anniversaire ? Mon anniversaire c'est le 14 mars.",
+    "difficulty": 1
+  },
+  {
+    "id": "class10_expr_03",
+    "source": "class 10.txt",
+    "type": "expression",
+    "french": "Quelle est la date de ta naissance ? → Je suis né(e) le [date].",
+    "english": "What is your date of birth? → I was born on [date].",
+    "context": "Quelle est la date de ta naissance ? Je suis né le 17 juillet 1991.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_vocab_01",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "l'heure (f)",
+    "english": "the hour; the time",
+    "context": "Quelle heure est-il ? Il est deux heures.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_vocab_02",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "midi",
+    "english": "noon, midday",
+    "context": "Il est midi. On déjeune à midi.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_vocab_03",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "minuit",
+    "english": "midnight",
+    "context": "Il est minuit. Je me couche à minuit.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_vocab_04",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "le quart",
+    "english": "the quarter (15 minutes)",
+    "context": "Il est trois heures et quart. Il est trois heures moins le quart.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_vocab_05",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "la demie",
+    "english": "the half (30 minutes)",
+    "context": "Il est trois heures et demie. Une demi-heure.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_vocab_06",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "demi / demie",
+    "english": "half",
+    "context": "un demi-kilo, une demi-heure, à mi-temps",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_vocab_07",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "vocabulary",
+    "french": "dégagé(e)",
+    "english": "clear (sky/weather)",
+    "context": "Le ciel est dégagé aujourd'hui.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_expr_01",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "être à l'heure",
+    "english": "to be on time",
+    "context": "Je suis toujours à l'heure. Le train est à l'heure.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_expr_02",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "être en avance",
+    "english": "to be early",
+    "context": "Elle est en avance de dix minutes.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_expr_03",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "être en retard",
+    "english": "to be late",
+    "context": "Je suis en retard ! Le bus est en retard.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_expr_04",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "Quelle heure est-il ?",
+    "english": "What time is it?",
+    "context": "Quelle heure est-il ? Il est dix heures.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_expr_05",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "Il est [nombre] heure(s) [minutes].",
+    "english": "It is [number] o'clock [minutes].",
+    "context": "Il est six heures dix. Il est quatre heures vingt.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_expr_06",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "Il est midi et demie.",
+    "english": "It is 12:30 PM.",
+    "context": "On déjeune à midi et demie.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_expr_07",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "expression",
+    "french": "Il est minuit et quart.",
+    "english": "It is 12:15 AM.",
+    "context": "Je me couche à minuit et quart.",
+    "difficulty": 1
+  },
+  {
+    "id": "class11_grammar_01",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "grammar",
+    "french": "et quart / et demie / moins le quart",
+    "english": "Time expressions: +15 min / +30 min / -15 min",
+    "context": "3h15 = trois heures et quart; 3h30 = trois heures et demie; 3h45 = quatre heures moins le quart",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_grammar_02",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "grammar",
+    "french": "Heure officielle vs heure courante",
+    "english": "24-hour (official) vs 12-hour (conversational) time in French",
+    "context": "Official: 15h30 = quinze heures trente. Conversational: trois heures et demie de l'après-midi.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_conjugation_01",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "conjugation",
+    "french": "commencer (présent): je commence, tu commences, il/elle commence, nous commençons, vous commencez, ils/elles commencent",
+    "english": "to begin/start (present tense)",
+    "context": "Notre leçon commence à quelle heure ? Elle commence à neuf heures.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_conjugation_02",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "conjugation",
+    "french": "finir (présent): je finis, tu finis, il/elle finit, nous finissons, vous finissez, ils/elles finissent",
+    "english": "to finish/end (present tense)",
+    "context": "Quand est-ce que la leçon finit ? Elle finit à dix heures.",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_conjugation_03",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "conjugation",
+    "french": "se coucher (présent): je me couche, tu te couches, il/elle se couche, nous nous couchons, vous vous couchez, ils/elles se couchent",
+    "english": "to go to bed (present tense)",
+    "context": "Je me couche à minuit. À quelle heure tu te couches ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class11_conjugation_04",
+    "source": "leçon 11 (heure).docx.md",
+    "type": "conjugation",
+    "french": "se lever (présent): je me lève, tu te lèves, il/elle se lève, nous nous levons, vous vous levez, ils/elles se lèvent",
+    "english": "to get up (present tense)",
+    "context": "Je me lève à sept heures. À quelle heure tu te lèves ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_vocab_01",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "rouge",
+    "english": "red",
+    "context": "La rose est rouge. Les tomates sont rouges.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_02",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "jaune",
+    "english": "yellow",
+    "context": "Les feuilles sont jaunes en automne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_03",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "rose",
+    "english": "pink",
+    "context": "Les fleurs sont roses. Elle porte une robe rose.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_04",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "orange",
+    "english": "orange (color, invariable)",
+    "context": "Des chaussures orange. (invariable — no agreement)",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_05",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "blanc / blanche",
+    "english": "white",
+    "context": "La neige est blanche. Un mur blanc.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_06",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "bleu / bleue",
+    "english": "blue",
+    "context": "Le ciel est bleu. La mer est bleue.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_07",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "vert / verte",
+    "english": "green",
+    "context": "L'herbe est verte. Un stylo vert.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_08",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "noir / noire",
+    "english": "black",
+    "context": "Le stylo est noir. Une voiture noire.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_09",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "gris / grise",
+    "english": "grey, gray",
+    "context": "Le ciel est gris. Un manteau gris.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_10",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "brun / brune",
+    "english": "brown",
+    "context": "La porte est brune. Il a les cheveux bruns.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_11",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "violet / violette",
+    "english": "purple, violet",
+    "context": "La fleur est violette. Un stylo violet.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_12",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "foncé(e)",
+    "english": "dark (shade of color)",
+    "context": "le vert foncé, le bleu foncé, une couleur foncée",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_vocab_13",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "clair(e)",
+    "english": "light (shade of color)",
+    "context": "le vert clair, le bleu clair, une couleur claire",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_vocab_14",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "la couleur",
+    "english": "the color",
+    "context": "De quelle couleur est ta voiture ? Ma voiture est rouge.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_15",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le parapluie",
+    "english": "the umbrella",
+    "context": "Je prends mon parapluie quand il pleut.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_16",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "la neige",
+    "english": "the snow",
+    "context": "Il y a de la neige. La neige est blanche.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_17",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "la pluie",
+    "english": "the rain",
+    "context": "Il y a de la pluie. Je n'aime pas la pluie.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_18",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le soleil",
+    "english": "the sun",
+    "context": "Il y a du soleil. Le soleil brille.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_19",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le vent",
+    "english": "the wind",
+    "context": "Il y a du vent. Le vent est fort aujourd'hui.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_20",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le brouillard",
+    "english": "the fog",
+    "context": "Il y a du brouillard ce matin.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_vocab_21",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "un orage",
+    "english": "a storm, thunderstorm",
+    "context": "Il y a des orages cet après-midi.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_vocab_22",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le nuage",
+    "english": "the cloud",
+    "context": "Il y a des nuages. Le ciel est nuageux.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_23",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le ciel",
+    "english": "the sky",
+    "context": "Le ciel est bleu / gris / dégagé.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_24",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "la feuille",
+    "english": "the leaf",
+    "context": "Les feuilles sont jaunes et rouges en automne.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_25",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "l'arbre (m)",
+    "english": "the tree",
+    "context": "Les arbres sont verts en été.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_26",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "l'herbe (f)",
+    "english": "the grass",
+    "context": "L'herbe est verte.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_27",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "le printemps",
+    "english": "spring",
+    "context": "Au printemps, les fleurs poussent.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_28",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "l'été (m)",
+    "english": "summer",
+    "context": "En été, il fait chaud.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_29",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "l'automne (m)",
+    "english": "autumn, fall",
+    "context": "En automne, les feuilles tombent.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_vocab_30",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "vocabulary",
+    "french": "l'hiver (m)",
+    "english": "winter",
+    "context": "En hiver, il fait froid et il neige.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_01",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait beau.",
+    "english": "The weather is nice.",
+    "context": "Quand il fait beau, je vais au parc.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_02",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait mauvais.",
+    "english": "The weather is bad.",
+    "context": "Il fait mauvais aujourd'hui — je reste à la maison.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_03",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait chaud.",
+    "english": "It is hot.",
+    "context": "En été, il fait très chaud.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_04",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait froid.",
+    "english": "It is cold.",
+    "context": "En hiver, il fait très froid.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_05",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait frais.",
+    "english": "It is cool (mild/fresh).",
+    "context": "Au printemps, il fait frais le matin.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_06",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait gris.",
+    "english": "It is overcast/grey.",
+    "context": "Il fait gris et nuageux aujourd'hui.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_07",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il fait [nombre] degrés.",
+    "english": "It is [number] degrees.",
+    "context": "Il fait cinq degrés. Il fait moins quatre degrés.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_expr_08",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il pleut.",
+    "english": "It is raining.",
+    "context": "Il pleut beaucoup en automne. Prends ton parapluie !",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_09",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il neige.",
+    "english": "It is snowing.",
+    "context": "Il neige en hiver. Regarde, il neige !",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_10",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il gèle.",
+    "english": "It is freezing.",
+    "context": "Il gèle cette nuit — il fait moins dix degrés.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_expr_11",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il grêle.",
+    "english": "It is hailing.",
+    "context": "Il grêle ! Les voitures sont abîmées.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_expr_12",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il y a du soleil.",
+    "english": "It is sunny. (There is sun.)",
+    "context": "Il y a beaucoup de soleil aujourd'hui.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_13",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il n'y a pas de soleil.",
+    "english": "It is not sunny.",
+    "context": "Il n'y a pas de soleil, il fait gris.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_14",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il y a du vent.",
+    "english": "It is windy. (There is wind.)",
+    "context": "Il y a beaucoup de vent aujourd'hui.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_15",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il y a du brouillard.",
+    "english": "It is foggy. (There is fog.)",
+    "context": "Il y a du brouillard le matin en automne.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_expr_16",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il y a des orages.",
+    "english": "There are storms.",
+    "context": "Il y a des orages en été.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_expr_17",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il y a de la neige.",
+    "english": "There is snow.",
+    "context": "Il y a de la neige sur les montagnes.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_18",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il n'y a pas de neige.",
+    "english": "There is no snow.",
+    "context": "Cette année, il n'y a pas de neige.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_19",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Il y a de la pluie.",
+    "english": "There is rain.",
+    "context": "Il y a beaucoup de pluie ce mois-ci.",
+    "difficulty": 1
+  },
+  {
+    "id": "class12_expr_20",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "Le soleil brille.",
+    "english": "The sun is shining.",
+    "context": "Le soleil brille et il fait beau.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_expr_21",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "expression",
+    "french": "avoir lieu",
+    "english": "to take place, to happen",
+    "context": "Le concert a lieu au stade. La fête a lieu demain.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_grammar_01",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "grammar",
+    "french": "Accord des adjectifs de couleur",
+    "english": "Color adjective agreement (gender & number)",
+    "context": "un stylo rouge → des stylos rouges; une voiture blanche → des voitures blanches. Exception: orange, marron = invariable.",
+    "difficulty": 3
+  },
+  {
+    "id": "class12_grammar_02",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "grammar",
+    "french": "De quelle couleur est/sont... ?",
+    "english": "What color is/are...?",
+    "context": "De quelle couleur est ta voiture ? Elle est rouge. De quelle couleur sont tes yeux ?",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_grammar_03",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "grammar",
+    "french": "Futur proche : aller (conjugué) + infinitif",
+    "english": "Near future tense: conjugated aller + infinitive",
+    "context": "Il va pleuvoir demain. Nous allons aller à la mer. Je vais faire les courses.",
+    "difficulty": 3
+  },
+  {
+    "id": "class12_grammar_04",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "grammar",
+    "french": "Saisons : au printemps / en été / en automne / en hiver",
+    "english": "Seasons with prepositions: au printemps / en été / en automne / en hiver",
+    "context": "Je suis né au printemps. En été, il fait chaud. En automne, les feuilles tombent. En hiver, il neige.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_conjugation_01",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "conjugation",
+    "french": "pleuvoir → il pleut (présent)",
+    "english": "to rain → it rains / it is raining",
+    "context": "Impersonal verb, only used in 3rd person singular. Il pleut beaucoup en novembre.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_conjugation_02",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "conjugation",
+    "french": "neiger → il neige (présent)",
+    "english": "to snow → it snows / it is snowing",
+    "context": "Impersonal verb, only used in 3rd person singular. Il neige en janvier.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_conjugation_03",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "conjugation",
+    "french": "geler → il gèle (présent)",
+    "english": "to freeze → it freezes / it is freezing",
+    "context": "Impersonal verb. Il gèle cette nuit.",
+    "difficulty": 2
+  },
+  {
+    "id": "class12_conjugation_04",
+    "source": "Leçon du 22mars (le temps) (leçon 12).docx.md",
+    "type": "conjugation",
+    "french": "grêler → il grêle (présent)",
+    "english": "to hail → it hails / it is hailing",
+    "context": "Impersonal verb. Il grêle au printemps parfois.",
+    "difficulty": 2
+  }
+]
