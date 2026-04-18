@@ -11,8 +11,10 @@ PDFs in `notes/` and tracks my learning progress in `data/`.
    right 3 times across different sessions. Until then it stays in rotation.
 3. **Spaced repetition**: Mastered items resurface after 5+ sessions,
    not immediately.
-4. **Progress is sacred**: Always read `data/progress.json` at the start
-   of any session. Always save it at the end.
+4. **Progress is sacred**: At the start of any session, read `data/user.json`
+   to get the current user's name, then read `data/progress-{name}.json`
+   (e.g. `data/progress-aurelija.json`). Always save back to the same file
+   at the end. Never mix up users' progress files.
 
 ## Data Schema
 
@@ -60,6 +62,19 @@ When I say:
   (or vice versa). Faster pace, more items.
 - **"mistakes"** → Show me everything I keep getting wrong, with
   explanations and mnemonics to help me remember.
+- **"add [filename]"** → Add a single new class file to the system.
+  Steps:
+  1. Read the file at `notes/[filename]` (PDF, txt, or markdown)
+  2. If it's a PDF, save a clean markdown version to `notes/[filename].md`
+  3. Determine the class number from the filename (ask if unclear)
+  4. Extract all testable concepts from that file only — same types as
+     "ingest": vocabulary, grammar, conjugation, expression, culture
+  5. Append new concepts to `data/knowledge.json` using IDs like
+     `class13_vocab_01`, `class13_grammar_01`, etc. — numbered
+     starting from 01, never overwriting existing entries
+  6. Show a summary: concepts added by type, and the new total
+  7. Remind me to commit and push so my friend gets the update:
+     `git add data/knowledge.json notes/ && git commit -m "Add class N" && git push`
 
 ## Quiz Format
 
@@ -85,9 +100,10 @@ Session #15 | Today: 12 correct, 3 wrong
 ```
 
 ## Important
-- NEVER skip saving progress to data/progress.json
+- NEVER skip saving progress to data/progress-{name}.json (where name comes from data/user.json)
 - NEVER re-test mastered items in the same session unless I explicitly ask
 - If knowledge.json doesn't exist yet, prompt me to run "ingest" first
+- If data/user.json doesn't exist, ask the user their name and create it before starting
 - Be encouraging but honest about mistakes
 - Explain grammar rules when I get something wrong, don't just say "incorrect"
 - During quizzes, after showing each question, STOP and print the line "Your answer:" and then do NOT output anything else until I type my response. Do not pre-fill, suggest, or hint at answers in any way.

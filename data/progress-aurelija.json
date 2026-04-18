@@ -1,0 +1,323 @@
+{
+  "session_count": 5,
+  "concepts": {
+    "class01_vocab_08": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class01_vocab_03": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class01_vocab_12": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class01_vocab_09": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class01_conjugation_03": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class01_conjugation_04": {
+      "correct": 2,
+      "wrong": 1,
+      "streak": 2,
+      "last_session": 3
+    },
+    "class04_expr_07": {
+      "correct": 3,
+      "wrong": 2,
+      "streak": 2,
+      "last_session": 5
+    },
+    "class04_grammar_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class06_expr_01": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class07_conjugation_01": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class07_grammar_01": {
+      "correct": 2,
+      "wrong": 2,
+      "streak": 2,
+      "last_session": 4
+    },
+    "class09_grammar_01": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class05_vocab_02": {
+      "correct": 2,
+      "wrong": 1,
+      "streak": 2,
+      "last_session": 3
+    },
+    "class10_vocab_10": {
+      "correct": 2,
+      "wrong": 1,
+      "streak": 2,
+      "last_session": 3
+    },
+    "class10_vocab_08": {
+      "correct": 1,
+      "wrong": 3,
+      "streak": 0,
+      "last_session": 5
+    },
+    "class08_grammar_03": {
+      "correct": 0,
+      "wrong": 4,
+      "streak": 0,
+      "last_session": 4
+    },
+    "class04_vocab_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class09_grammar_03": {
+      "correct": 1,
+      "wrong": 2,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class10_grammar_03": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class06_expr_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 1
+    },
+    "class03_grammar_01": {
+      "correct": 1,
+      "wrong": 3,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class08_grammar_01": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class07_vocab_24": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 2
+    },
+    "class06_grammar_01": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class09_vocab_06": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class10_vocab_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 2
+    },
+    "class01_grammar_07": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class10_expr_01": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 2
+    },
+    "class10_vocab_05": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class05_vocab_03": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class09_vocab_16": {
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last_session": 3
+    },
+    "class09_vocab_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 3
+    },
+    "class12_expr_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 4
+    },
+    "class12_vocab_29": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 4
+    },
+    "class12_vocab_06": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class12_vocab_03": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 4
+    },
+    "class12_vocab_12": {
+      "correct": 0,
+      "wrong": 2,
+      "streak": 0,
+      "last_session": 5
+    },
+    "class11_conjugation_02": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class11_expr_05": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 4
+    },
+    "class04_vocab_06": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class10_grammar_05": {
+      "correct": 0,
+      "wrong": 2,
+      "streak": 0,
+      "last_session": 5
+    },
+    "class06_vocab_10": {
+      "correct": 1,
+      "wrong": 1,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class08_grammar_02": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 4
+    },
+    "class12_conjugation_03": {
+      "correct": 0,
+      "wrong": 2,
+      "streak": 0,
+      "last_session": 5
+    },
+    "class09_vocab_22": {
+      "correct": 0,
+      "wrong": 2,
+      "streak": 0,
+      "last_session": 5
+    },
+    "class09_vocab_26": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 4
+    },
+    "class03_grammar_01": {
+      "correct": 1,
+      "wrong": 3,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class01_vocab_01": {
+      "correct": 0,
+      "wrong": 1,
+      "streak": 0,
+      "last_session": 5
+    },
+    "class01_vocab_04": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class02_vocab_05": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class02_expr_01": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class01_grammar_01": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 5
+    },
+    "class02_vocab_04": {
+      "correct": 1,
+      "wrong": 0,
+      "streak": 1,
+      "last_session": 5
+    }
+  }
+}
